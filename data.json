@@ -8503,9 +8503,9 @@
             "icon":"https://yt3.ggpht.com/ytc/AIdro_n7UQKuMT3b_zbEdK7LKoAGcHK8tdUVsDvHpTqRg-4ohmE=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@nqrse",
             "channelImp":{
-                "l":22.1,
-                "o":17.0,
-                "c":8.7
+                "o":26.6,
+                "l":14.8,
+                "c":6.4
             },
             "videos":[
                 {
@@ -8524,6 +8524,15 @@
                         "o":25.6,
                         "c":17.5,
                         "i":11.2
+                    }
+                },
+                {
+                    "videoId":"4XfDPkrNKng",
+                    "title":"仮面  / nqrse ( self cover )",
+                    "impression":{
+                        "o":45.7,
+                        "e":10.4,
+                        "a":5.6
                     }
                 }
             ]
