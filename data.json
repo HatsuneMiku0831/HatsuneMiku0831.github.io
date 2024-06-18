@@ -288,6 +288,64 @@
             ]
         },
         {
+            "channelId":"UC1DCedRgGHBdm81E1llLhOQ",
+            "channelName":"Pekora Ch. 兎田ぺこら",
+            "icon":null,
+            "cosName":null,
+            "channelImp":{
+                "h":28.8,
+                "e":16.0,
+                "o":12.6
+            },
+            "videos":[
+                {
+                    "videoId":"75mpgWnhJpo",
+                    "title":"恋愛脳/兎田ぺこら(cover)",
+                    "impression":{
+                        "h":25.2,
+                        "o":7.9,
+                        "d":6.8
+                    }
+                },
+                {
+                    "videoId":"Yzdie2uH0N4",
+                    "title":"【MV】『全人類　兎化計画！』【ホロライブ/兎田ぺこら】",
+                    "impression":{
+                        "h":56.9,
+                        "o":11.8,
+                        "m":2.0
+                    }
+                },
+                {
+                    "videoId":"tlLo7jypqDI",
+                    "title":"【MV】いいわけバニー【ホロライブ/兎田ぺこら】",
+                    "impression":{
+                        "h":37.0,
+                        "n":15.6,
+                        "o":14.9
+                    }
+                },
+                {
+                    "videoId":"aozNBX2dF6c",
+                    "title":"シンデレラ/兎田ぺこら(cover)",
+                    "impression":{
+                        "h":24.0,
+                        "o":21.6,
+                        "d":9.2
+                    }
+                },
+                {
+                    "videoId":"_KTwDH_KQ_g",
+                    "title":"【MV】ぺこらんだむぶれいん！【ホロライブ/兎田ぺこら】",
+                    "impression":{
+                        "e":70.5,
+                        "d":10.6,
+                        "o":6.7
+                    }
+                }
+            ]
+        },
+        {
             "channelId":"UC1FByWnYWrAWcCmijBURkfg",
             "channelName":"雨乃こさめ",
             "icon":"https://yt3.ggpht.com/BN4SHjYHCJyRChjnjIoH3lkauJU18EUI3CZA-o44WGEuPoXQMLQ4GXNu8zfoqqNWwW82-ZawDqc=s88-c-k-c0x00ffffff-no-rj",
