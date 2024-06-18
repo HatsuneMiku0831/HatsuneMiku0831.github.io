@@ -2108,9 +2108,9 @@
             "icon":"https://yt3.ggpht.com/Kyb1VwVChx8DXOgqOhrq9Lvca5e_SZskAs6f7l5wVoL_ZOLFoJv51Ar0Hye0VxPpntP_rUTFiw=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@tuyu_official",
             "channelImp":{
-                "d":17.6,
-                "m":15.9,
-                "o":13.6
+                "d":16.3,
+                "o":14.8,
+                "m":14.5
             },
             "videos":[
                 {
@@ -2192,6 +2192,15 @@
                         "o":59.6,
                         "d":15.5,
                         "m":5.0
+                    }
+                },
+                {
+                    "videoId":"HwGFMez_Tnc",
+                    "title":"ツユ - それでも雨は降るんだね MV",
+                    "impression":{
+                        "o":25.4,
+                        "a":12.6,
+                        "e":6.3
                     }
                 }
             ]
