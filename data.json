@@ -332,64 +332,6 @@
             ]
         },
         {
-            "channelId":"UC1opHUrw8rvnsadT-iGp7Cg",
-            "channelName":"Aqua Ch. 湊あくあ",
-            "icon":"https://yt3.ggpht.com/ytc/AIdro_kaZLtKaya9TSJr3M4lpzV95R2rWdQtGk67fwedroUfSnE=s88-c-k-c0x00ffffff-no-rj",
-            "cosName":"@minatoaqua",
-            "channelImp":{
-                "h":35.8,
-                "o":25.8,
-                "d":4.2
-            },
-            "videos":[
-                {
-                    "videoId":"O8v5S1nhKzo",
-                    "title":"【１周年記念】ダダダダ天使／湊あくあ【歌ってみた】",
-                    "impression":{
-                        "h":79.6,
-                        "d":0.6,
-                        "o":0.5
-                    }
-                },
-                {
-                    "videoId":"0fTmEfBvp50",
-                    "title":"【誕生日に】Ubiquitous dB／湊あくあ【歌ってみた】",
-                    "impression":{
-                        "b":55.3,
-                        "h":17.9,
-                        "o":14.9
-                    }
-                },
-                {
-                    "videoId":"rbPa0Qp3zJQ",
-                    "title":"【あてぃし】ヴァンパイア／湊あくあ【歌ってみた】",
-                    "impression":{
-                        "h":51.4,
-                        "o":41.4,
-                        "d":1.3
-                    }
-                },
-                {
-                    "videoId":"2pYaIr-4pfA",
-                    "title":"【アイドルが】誇り高きアイドル／湊あくあ【歌ってみた】",
-                    "impression":{
-                        "o":19.5,
-                        "d":13.7,
-                        "h":11.8
-                    }
-                },
-                {
-                    "videoId":"8nCpQFvr-U4",
-                    "title":"【大天使が】INTERNET OVERDOSE／湊あくあ【歌ってみた】",
-                    "impression":{
-                        "o":52.5,
-                        "h":18.0,
-                        "e":5.6
-                    }
-                }
-            ]
-        },
-        {
             "channelId":"UC1P7ivmEQMok4gz4xtG7mDQ",
             "channelName":"nory",
             "icon":"https://yt3.ggpht.com/ytc/AIdro_nqrcT1-L4kXR5Fj5MPE_nQ6zS55J3WlqrLvvMAR4Hk2w=s88-c-k-c0x00ffffff-no-rj",
@@ -2473,9 +2415,9 @@
             "icon":"https://yt3.ggpht.com/sZmx0LvpRjXuwHJpU2tHFUiLkF3wPvJa3l_f8gxx45MJNwbbtmjq0wI2gb1Ybf4YmSgksgJ8ug=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@kagura_nana",
             "channelImp":{
-                "o":75.9,
-                "a":6.0,
-                "d":4.8
+                "h":18.4,
+                "m":17.2,
+                "o":12.0
             },
             "videos":[
                 {
@@ -2485,6 +2427,518 @@
                         "o":75.9,
                         "a":6.0,
                         "d":4.8
+                    }
+                },
+                {
+                    "videoId":"futUtWBiln8",
+                    "title":"君色に染まる covered by カグラナナ【4K】",
+                    "impression":{
+                        "b":51.2,
+                        "h":17.4,
+                        "o":7.0
+                    }
+                },
+                {
+                    "videoId":"X4gdHEsn6xg",
+                    "title":"【MMD】キャットラビング ／ Nana Dance #shorts",
+                    "impression":{
+                        "h":50.0,
+                        "a":30.0,
+                        "b":20.0
+                    }
+                },
+                {
+                    "videoId":"ooKS8VwRT7c",
+                    "title":"【歌ってみた】ラヴィ(Lavie)/ すりぃ covered by カグラナナ",
+                    "impression":{
+                        "a":50.0,
+                        "h":21.4,
+                        "o":7.1
+                    }
+                },
+                {
+                    "videoId":"hTXnHCvjLA4",
+                    "title":"Sweet Devil - 八王子P／covered by カグラナナ【歌ってみた】",
+                    "impression":{
+                        "h":71.6,
+                        "a":4.9,
+                        "o":2.0
+                    }
+                },
+                {
+                    "videoId":"iYFGRkY_H18",
+                    "title":"【推しの子】アイドル / YOASOBI 3Dで歌ってみた【カグラナナ】#shorts",
+                    "impression":{
+                        "m":28.6,
+                        "o":14.3,
+                        "h":14.3
+                    }
+                },
+                {
+                    "videoId":"_IB-rDkNDok",
+                    "title":"最後の花弁 (The meaning of love)-EGOIST/covered by カグラナナ",
+                    "impression":{
+                        "m":41.3,
+                        "d":14.5,
+                        "o":8.7
+                    }
+                },
+                {
+                    "videoId":"OlW8HzC0zyI",
+                    "title":"【4K】シンデレラ (Giga First Night Remix)  / カグラナナ cover【3D】",
+                    "impression":{
+                        "h":36.4,
+                        "m":27.3,
+                        "o":13.6
+                    }
+                },
+                {
+                    "videoId":"9gKCeLido-M",
+                    "title":"デーモンロード / イラストレーターが歌ってみた  #カグラナナch #shorts",
+                    "impression":{
+                        "d":28.6,
+                        "a":28.6,
+                        "o":14.3
+                    }
+                },
+                {
+                    "videoId":"wjBToHUM9V8",
+                    "title":"ロウワー / ぬゆり covered by カグラナナ × 電脳少女シロ【歌ってみた】",
+                    "impression":{
+                        "a":31.4,
+                        "h":25.6,
+                        "o":3.5
+                    }
+                },
+                {
+                    "videoId":"pee9O-K4IvY",
+                    "title":"レクイエム / Kanaria  covered by カグラナナ × Axel Syrios【歌ってみた】",
+                    "impression":{
+                        "j":33.8,
+                        "a":20.7,
+                        "d":17.7
+                    }
+                },
+                {
+                    "videoId":"LqWo_qJzU1U",
+                    "title":"ヴィータ / covered by カグラナナ×人生つみこ【歌ってみた】",
+                    "impression":{
+                        "a":86.8,
+                        "b":10.3,
+                        "d":2.9
+                    }
+                },
+                {
+                    "videoId":"UELrlJvInCY",
+                    "title":"イラストレーターが『酔いどれ知らず』歌って踊ってみた #カグラナナ",
+                    "impression":{
+                        "m":28.6,
+                        "o":21.4,
+                        "h":17.9
+                    }
+                },
+                {
+                    "videoId":"1tUVVU23-vU",
+                    "title":"アイデンティティ- Kanaria covered by カグラナナ × Kureiji Ollie",
+                    "impression":{
+                        "e":58.9,
+                        "o":17.8,
+                        "h":7.3
+                    }
+                },
+                {
+                    "videoId":"AeRpwz7bkA4",
+                    "title":"【歌ってみた】初恋日記 / 香椎モイミ covered by カグラナナ",
+                    "impression":{
+                        "d":36.0,
+                        "o":27.0,
+                        "m":23.0
+                    }
+                },
+                {
+                    "videoId":"UmB-I07aQVA",
+                    "title":"カグラナナ1st Album 『Astrolabe』クロスフェード",
+                    "impression":{
+                        "m":50.0,
+                        "b":50.0
+                    }
+                },
+                {
+                    "videoId":"bSHeS4izUHE",
+                    "title":"【オリジナル曲】Blue Battlecry - カグラナナ 【3Dライブ】",
+                    "impression":{
+                        "b":66.7,
+                        "m":20.8,
+                        "a":8.3
+                    }
+                },
+                {
+                    "videoId":"3wsawGPizw0",
+                    "title":"カラオケいこっか！【新モーションお披露目あり】",
+                    "impression":{
+                        "h":33.3,
+                        "e":16.7,
+                        "d":16.7
+                    }
+                },
+                {
+                    "videoId":"kkXvqswL1vo",
+                    "title":"レイメイ / アステル・レダ × カグラナナ【 歌ってみた 】",
+                    "impression":{
+                        "a":21.7,
+                        "o":20.0,
+                        "m":16.0
+                    }
+                },
+                {
+                    "videoId":"v_V3eQFpsO4",
+                    "title":"【歌ってみた】 ダウナーウィッチ / 廉 covered by カグラナナ",
+                    "impression":{
+                        "o":88.6,
+                        "a":3.7,
+                        "m":2.6
+                    }
+                },
+                {
+                    "videoId":"XFo6bhp4GGg",
+                    "title":"【歌ってみた】撫でんな / 柊マグネタイト covered by カグラナナ",
+                    "impression":{
+                        "h":52.8,
+                        "m":36.5,
+                        "o":3.1
+                    }
+                },
+                {
+                    "videoId":"Tx6n0g4ynlY",
+                    "title":"深淵 / ヰ世界情緒 feat.花譜 covered by 杏仁ミル × カグラナナ",
+                    "impression":{
+                        "m":28.1,
+                        "a":21.9,
+                        "e":6.2
+                    }
+                },
+                {
+                    "videoId":"fYx6l2g1fZ4",
+                    "title":"【歌ってみた】一度だけの恋なら  covered by カグラナナ × 木村千咲",
+                    "impression":{
+                        "o":36.6,
+                        "m":14.6,
+                        "d":9.8
+                    }
+                },
+                {
+                    "videoId":"6xtvoQPouPM",
+                    "title":"【歌ってみた】Sweets Parade / covered by カグラナナ【4K】",
+                    "impression":{
+                        "e":43.9,
+                        "h":35.7,
+                        "m":5.1
+                    }
+                },
+                {
+                    "videoId":"_7tndcpZwPY",
+                    "title":"うまぴょい伝説 ／ covered by カグラナナ【ウマ娘1周年おめでとう！！！！】",
+                    "impression":{
+                        "h":43.7,
+                        "b":37.5,
+                        "m":18.8
+                    }
+                },
+                {
+                    "videoId":"sAuUI3KL_LQ",
+                    "title":"【4K special edition】エバ / covered by カグラナナ",
+                    "impression":{
+                        "h":26.2,
+                        "a":26.2,
+                        "j":16.7
+                    }
+                },
+                {
+                    "videoId":"pY9AeWeSHBo",
+                    "title":"神っぽいな / covered by カグラナナ〖 God-ish 〗",
+                    "impression":{
+                        "a":47.9,
+                        "o":20.1,
+                        "h":11.7
+                    }
+                },
+                {
+                    "videoId":"IL-MQEih8R8",
+                    "title":"シル・ヴ・プレジデント / covered by カグラナナ×konoco",
+                    "impression":{
+                        "c":17.4,
+                        "h":14.0,
+                        "a":10.5
+                    }
+                },
+                {
+                    "videoId":"X3vXZcDS1Y4",
+                    "title":"フォニイ / ツミキ ‐ covered by カグラナナ",
+                    "impression":{
+                        "m":27.2,
+                        "d":25.4,
+                        "a":10.5
+                    }
+                },
+                {
+                    "videoId":"S5x_epNV7s8",
+                    "title":"ECHO ／ covered by カグラナナAlter【歌ってみた】",
+                    "impression":{
+                        "a":29.0,
+                        "m":27.4,
+                        "h":12.3
+                    }
+                },
+                {
+                    "videoId":"5s1Fg2QRlK4",
+                    "title":"【Roselia】FIRE BIRD／歌って踊ってみた ‐ カグラナナ",
+                    "impression":{
+                        "h":40.2,
+                        "m":16.4,
+                        "d":16.4
+                    }
+                },
+                {
+                    "videoId":"WAjXT8Q109U",
+                    "title":"鼓動 ／カグラナナ TV アニメ「探偵はもう、死んでいる。」ED【Official MV】",
+                    "impression":{
+                        "o":46.6,
+                        "m":12.7,
+                        "d":6.8
+                    }
+                },
+                {
+                    "videoId":"3byl7x-KOZQ",
+                    "title":"灰色と青／covered by カグラナナ×天使うと【歌ってみた】",
+                    "impression":{
+                        "m":31.1,
+                        "d":14.5,
+                        "e":9.2
+                    }
+                },
+                {
+                    "videoId":"vo26jGSDOQs",
+                    "title":"ラブカ？-柊キライ／covered by カグラナナ【歌ってみた】",
+                    "impression":{
+                        "b":52.1,
+                        "d":24.0,
+                        "a":8.0
+                    }
+                },
+                {
+                    "videoId":"grbHrPE2R08",
+                    "title":"【歌ってみた】幽霊東京／Ayase- covered by カグラナナ",
+                    "impression":{
+                        "d":12.5,
+                        "m":11.1,
+                        "o":9.7
+                    }
+                },
+                {
+                    "videoId":"ZOZq6z-rTyk",
+                    "title":"クレイジークレイジー／竜胆尊×カグラナナ【歌ってみた】",
+                    "impression":{
+                        "m":23.3,
+                        "o":22.1,
+                        "d":15.1
+                    }
+                },
+                {
+                    "videoId":"ZWFaPpRqAlE",
+                    "title":"夜に駆ける／covered by カグラナナ",
+                    "impression":{
+                        "m":36.3,
+                        "d":20.6,
+                        "a":13.2
+                    }
+                },
+                {
+                    "videoId":"nQvIHQYtVnE",
+                    "title":"【歌ってみた】Penguin's Detour ／covered by カグラナナ",
+                    "impression":{
+                        "m":25.0,
+                        "j":12.5,
+                        "a":10.4
+                    }
+                },
+                {
+                    "videoId":"n_q72gUaE74",
+                    "title":"【4K】ぴこぴこ東京／カグラナナ×クレー(cv.花园花玲)【歌ってみた】",
+                    "impression":{
+                        "o":33.3,
+                        "m":26.4,
+                        "h":20.8
+                    }
+                },
+                {
+                    "videoId":"OTlSv11KRGI",
+                    "title":"打上花火／covered byカグラナナ×犬山たまき【歌ってみた】",
+                    "impression":{
+                        "m":46.5,
+                        "j":38.0,
+                        "d":10.2
+                    }
+                },
+                {
+                    "videoId":"QsOfPWq8ovg",
+                    "title":"【新衣装MMD】おねがいダーリン♡covered by カグラナナ【歌ってみた】",
+                    "impression":{
+                        "h":50.0,
+                        "m":25.0,
+                        "e":25.0
+                    }
+                },
+                {
+                    "videoId":"X1WwuNG581Y",
+                    "title":"【ロシア民謡】Катюша【カグラナナcover】",
+                    "impression":{
+                        "j":28.3,
+                        "h":16.0,
+                        "g":14.8
+                    }
+                },
+                {
+                    "videoId":"pGLXrkZnx3c",
+                    "title":"ひらひら🌸ひらら｜千条アリアｘカグラナナ",
+                    "impression":{
+                        "m":34.7,
+                        "d":9.5,
+                        "o":7.5
+                    }
+                },
+                {
+                    "videoId":"bv3jPFYpruc",
+                    "title":"♡メランコリック EUROBEAT.ver♡/カグラナナ",
+                    "impression":{
+                        "h":76.6,
+                        "n":9.0,
+                        "e":2.5
+                    }
+                },
+                {
+                    "videoId":"nYxuxiEWK38",
+                    "title":"トリノコシティ(coverd by カグラナナ)",
+                    "impression":{
+                        "o":21.9,
+                        "h":16.7,
+                        "a":10.4
+                    }
+                },
+                {
+                    "videoId":"Z4vDQETrdhg",
+                    "title":"【カグラナナ】Adastra【オリジナル曲】",
+                    "impression":{
+                        "h":24.0,
+                        "d":18.7,
+                        "i":12.5
+                    }
+                },
+                {
+                    "videoId":"FYZqitee64k",
+                    "title":"フラジール covered byカグラナナ",
+                    "impression":{
+                        "m":45.0,
+                        "d":10.0,
+                        "h":5.0
+                    }
+                },
+                {
+                    "videoId":"1HssP4Q47sA",
+                    "title":"♡ ヒトリゴト ♡ 歌ってみた／カグラナナ×鹿乃",
+                    "impression":{
+                        "h":50.9,
+                        "o":32.1,
+                        "e":5.7
+                    }
+                },
+                {
+                    "videoId":"Zzw3YlgIpbg",
+                    "title":"橫豎撇點折／カグラナナcover【中国語歌唱】",
+                    "impression":{
+                        "b":61.9,
+                        "m":14.3,
+                        "e":11.9
+                    }
+                },
+                {
+                    "videoId":"N1UAvmhto34",
+                    "title":"KING-Kanaria／covered by カグラナナ【歌ってみた】",
+                    "impression":{
+                        "o":51.1,
+                        "a":22.1,
+                        "h":19.1
+                    }
+                },
+                {
+                    "videoId":"tbu2qmZBeQU",
+                    "title":"【オリジナル曲】陽炎／カグラナナ × buzzG",
+                    "impression":{
+                        "o":25.6,
+                        "d":25.6,
+                        "m":13.4
+                    }
+                },
+                {
+                    "videoId":"DiLHtZhI2YA",
+                    "title":"钢铁直男‐insensitive boyfriend／カグラナナcover",
+                    "impression":{
+                        "i":74.0,
+                        "h":16.4,
+                        "m":3.4
+                    }
+                },
+                {
+                    "videoId":"mglXZWhtfhc",
+                    "title":"ドリームレス・ドリームス／covered byカグラナナ",
+                    "impression":{
+                        "m":53.8,
+                        "j":12.8,
+                        "e":9.0
+                    }
+                },
+                {
+                    "videoId":"pL0biFVHKWk",
+                    "title":"ナナイロセカイ／カグラナナテーマ曲",
+                    "impression":{
+                        "m":26.8,
+                        "d":25.3,
+                        "h":15.8
+                    }
+                },
+                {
+                    "videoId":"N88NphuFA_M",
+                    "title":"【4K】３月９日／歌ってみた【カグラナナ】",
+                    "impression":{
+                        "m":35.0,
+                        "e":26.9,
+                        "j":7.8
+                    }
+                },
+                {
+                    "videoId":"HyGV8cjGaiE",
+                    "title":"恋空予報／カグラナナ【歌ってみた】",
+                    "impression":{
+                        "h":45.8,
+                        "g":8.3,
+                        "e":8.3
+                    }
+                },
+                {
+                    "videoId":"G6AcztMMGdI",
+                    "title":"【ロボ子さん×カグラナナ】ラブレター【歌ってみた】",
+                    "impression":{
+                        "h":76.0,
+                        "m":7.3,
+                        "e":7.3
+                    }
+                },
+                {
+                    "videoId":"L2-cVxGJWcU",
+                    "title":"ヒビカセ▶カグラナナ Cover",
+                    "impression":{
+                        "m":16.4,
+                        "d":12.7,
+                        "a":8.2
                     }
                 }
             ]
@@ -9586,8 +10040,8 @@
         {
             "channelId":"UCuGYxF5_57zs9R4m0YSMDXw",
             "channelName":"ᥫᩣ  ̖́-",
-            "icon":null,
-            "cosName":null,
+            "icon":"https://yt3.ggpht.com/6SEwNkZKqzm-lRnO91oU2JSLC0BB0UYoFZyFGrCJ9-BRnjVYiEjRB_abxnHkI-mCwEVdTDKfuA=s88-c-k-c0x00ffffff-no-rj",
+            "cosName":"@nchan_sksk",
             "channelImp":{
                 "d":19.5,
                 "h":16.9,
@@ -9893,9 +10347,9 @@
             "icon":"https://yt3.ggpht.com/VXeA7tz-RsePrgKKs99aYb8wz4aLSLH52lysXXpL8xH2mZt3dY65ae_0boggAy_Cy0t_3EzJ=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@nachoneko_dayo",
             "channelImp":{
-                "h":96.1,
-                "m":1.3,
-                "o":1.1
+                "h":28.1,
+                "d":12.0,
+                "e":10.7
             },
             "videos":[
                 {
@@ -9905,6 +10359,33 @@
                         "h":96.1,
                         "m":1.3,
                         "o":1.1
+                    }
+                },
+                {
+                    "videoId":"1CQjWtqFSc4",
+                    "title":"てねてね / Nachoneko (cover)",
+                    "impression":{
+                        "d":46.8,
+                        "e":30.0,
+                        "h":13.5
+                    }
+                },
+                {
+                    "videoId":"W_s4lIw-lL8",
+                    "title":"恋ゴコロ (K's Remix) / Nachoneko × 赤見かるび (cover)",
+                    "impression":{
+                        "b":92.1,
+                        "o":3.0,
+                        "g":2.0
+                    }
+                },
+                {
+                    "videoId":"q_Yvgv3R7NI",
+                    "title":"nekomeshi / Nachoneko (cover)",
+                    "impression":{
+                        "b":78.6,
+                        "e":12.9,
+                        "i":5.7
                     }
                 }
             ]
@@ -10752,5 +11233,5 @@
             ]
         }
     ],
-    "data_version":"2024.06.12"
+    "data_version":"2024.06.18"
 }
