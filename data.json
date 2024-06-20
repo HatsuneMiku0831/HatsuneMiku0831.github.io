@@ -40,6 +40,46 @@
             ]
         },
         {
+            "channelId":"UC_vMYWcDjmfdpH6r4TTn1MQ",
+            "channelName":"Iroha ch. 風真いろは - holoX -",
+            "icon":null,
+            "cosName":null,
+            "channelImp":{
+                "o":32.4,
+                "d":16.9,
+                "a":14.2
+            },
+            "videos":[
+                {
+                    "videoId":"9Q6Ft-QtCw8",
+                    "title":"マーシャルマキシマイザー - 柊マグネタイト / 風真いろは(cover)",
+                    "impression":{
+                        "d":47.9,
+                        "o":28.1,
+                        "a":4.8
+                    }
+                },
+                {
+                    "videoId":"c4kjFF60B2U",
+                    "title":"デーモンロード - Kanaria/風真いろは(cover)",
+                    "impression":{
+                        "a":35.0,
+                        "o":13.5,
+                        "h":12.9
+                    }
+                },
+                {
+                    "videoId":"ykTqHWO9qUI",
+                    "title":"にんじゃりばんばん - きゃりーぱみゅぱみゅ / Covered by  風真いろは",
+                    "impression":{
+                        "o":55.8,
+                        "h":17.5,
+                        "c":3.5
+                    }
+                }
+            ]
+        },
+        {
             "channelId":"UC-1uvY3U4sMSGi52IcT_fWQ",
             "channelName":"さとみ【すとぷり】",
             "icon":"https://yt3.ggpht.com/jkMn6jhAV7EA2gmAFAFZeGGnTwsRxS4EQX0HVJKCzlLYHYoFQqZQyjxG86lx6Sf38Eyk69Ncm_g=s88-c-k-c0x00ffffff-no-rj",
@@ -293,9 +333,9 @@
             "icon":null,
             "cosName":null,
             "channelImp":{
-                "h":28.8,
-                "e":16.0,
-                "o":12.6
+                "e":26.0,
+                "h":16.8,
+                "o":12.1
             },
             "videos":[
                 {
@@ -305,24 +345,6 @@
                         "h":25.2,
                         "o":7.9,
                         "d":6.8
-                    }
-                },
-                {
-                    "videoId":"Yzdie2uH0N4",
-                    "title":"【MV】『全人類　兎化計画！』【ホロライブ/兎田ぺこら】",
-                    "impression":{
-                        "h":56.9,
-                        "o":11.8,
-                        "m":2.0
-                    }
-                },
-                {
-                    "videoId":"tlLo7jypqDI",
-                    "title":"【MV】いいわけバニー【ホロライブ/兎田ぺこら】",
-                    "impression":{
-                        "h":37.0,
-                        "n":15.6,
-                        "o":14.9
                     }
                 },
                 {
@@ -540,28 +562,6 @@
                         "j":18.8,
                         "g":15.8,
                         "m":9.8
-                    }
-                }
-            ]
-        },
-        {
-            "channelId":"UC2SPttwqD13PoROoLR_NKUg",
-            "channelName":"【公式】TYPE-MOON GAMES",
-            "icon":"https://yt3.ggpht.com/ytc/AIdro_nbUXs1JnuZJvch9hICReDyqJVxveXEVFhrkm0wsQOOHQ=s88-c-k-c0x00ffffff-no-rj",
-            "cosName":"@type-moon_games",
-            "channelImp":{
-                "e":84.6,
-                "o":7.7,
-                "d":3.8
-            },
-            "videos":[
-                {
-                    "videoId":"9B282GYZqCg",
-                    "title":"「月姫 -A piece of blue glass moon-」オープニングアニメーション",
-                    "impression":{
-                        "e":84.6,
-                        "o":7.7,
-                        "d":3.8
                     }
                 }
             ]
@@ -1082,6 +1082,55 @@
             ]
         },
         {
+            "channelId":"UC5CwaMl1eIgY8h02uZw7u8A",
+            "channelName":"Suisei Channel",
+            "icon":null,
+            "cosName":null,
+            "channelImp":{
+                "o":43.0,
+                "m":6.3,
+                "d":5.5
+            },
+            "videos":[
+                {
+                    "videoId":"N029UUlH1Dc",
+                    "title":"フォニイ / 星街すいせい(Cover)",
+                    "impression":{
+                        "o":21.9,
+                        "a":9.4,
+                        "d":7.8
+                    }
+                },
+                {
+                    "videoId":"8ZP5eqm4JqM",
+                    "title":"ビビデバ / 星街すいせい(official)",
+                    "impression":{
+                        "o":90.7,
+                        "a":1.4,
+                        "d":1.3
+                    }
+                },
+                {
+                    "videoId":"a51VH9BYzZA",
+                    "title":"Stellar Stellar / 星街すいせい(official)",
+                    "impression":{
+                        "o":26.5,
+                        "m":14.3,
+                        "d":8.7
+                    }
+                },
+                {
+                    "videoId":"IKKar5SS29E",
+                    "title":"GHOST / 星街すいせい(official)",
+                    "impression":{
+                        "o":33.0,
+                        "g":12.6,
+                        "a":6.6
+                    }
+                }
+            ]
+        },
+        {
             "channelId":"UC5l8bnxxl26Q5PDG_jawcuw",
             "channelName":"おんりー / ドズル社",
             "icon":"https://yt3.ggpht.com/cPesoT6Cf2OY5AZ9nVDxzMSZ5J2uE39d7YuTc02jYPi7Ey0cjU1vKV5UpQ2oXQCSTsETWYO5=s88-c-k-c0x00ffffff-no-rj",
@@ -1445,6 +1494,82 @@
             ]
         },
         {
+            "channelId":"UC7wZb5INldbGweowOhBIs8Q",
+            "channelName":"石狩あかり/あおぎり高校",
+            "icon":null,
+            "cosName":null,
+            "channelImp":{
+                "a":18.8,
+                "h":14.7,
+                "o":10.3
+            },
+            "videos":[
+                {
+                    "videoId":"aIVEVhaY7Jk",
+                    "title":"踊 covered by 石狩あかり【歌ってみた】",
+                    "impression":{
+                        "g":24.0,
+                        "a":18.9,
+                        "h":13.6
+                    }
+                },
+                {
+                    "videoId":"1B2s51g_kaM",
+                    "title":"【ビートdeトーヒ】我部ちゃんと歌って踊ってみた #shorts #石狩あかり #我部りえる #あおぎり高校 #歌ってみた #踊ってみた  #vtuber",
+                    "impression":{
+                        "o":32.0,
+                        "h":16.0,
+                        "d":12.0
+                    }
+                },
+                {
+                    "videoId":"fK1e4_oYlCE",
+                    "title":"ワールドイズマイン coverd by 石狩あかり【歌ってみた】",
+                    "impression":{
+                        "h":41.1,
+                        "o":16.9,
+                        "n":5.0
+                    }
+                },
+                {
+                    "videoId":"seinW_SeynA",
+                    "title":"デーモンロード covered by 石狩あかり【歌ってみた】",
+                    "impression":{
+                        "a":41.4,
+                        "m":7.0,
+                        "o":6.8
+                    }
+                },
+                {
+                    "videoId":"fWJ658HBYY0",
+                    "title":"アトラクトライト covered by 石狩あかり【歌ってみた】",
+                    "impression":{
+                        "a":20.2,
+                        "i":13.7,
+                        "o":10.0
+                    }
+                },
+                {
+                    "videoId":"0R68krJoyz8",
+                    "title":"神っぽいな covered by 石狩あかり【歌ってみた】",
+                    "impression":{
+                        "b":67.9,
+                        "a":15.1,
+                        "m":10.4
+                    }
+                },
+                {
+                    "videoId":"jWQd6JX6uBc",
+                    "title":"【踊ってみた】シル・ヴ・プレジデント/Ver.石狩あかり/あおぎり高校【歌ってみた】 #Shorts",
+                    "impression":{
+                        "a":32.1,
+                        "h":31.7,
+                        "m":2.9
+                    }
+                }
+            ]
+        },
+        {
             "channelId":"UC7XCjKxBEct0uAukpQXNFPw",
             "channelName":"HACHI",
             "icon":"https://yt3.ggpht.com/f8O92oxbkY2htoeJrb8LvhjvjX18Z34oHp0qW93ujrrgg4oF2BdPew9P54ZtLgjwawMYk_s3I1Q=s88-c-k-c0x00ffffff-no-rj",
@@ -1533,6 +1658,46 @@
                         "o":65.8,
                         "m":11.5,
                         "h":6.0
+                    }
+                }
+            ]
+        },
+        {
+            "channelId":"UC8NZiqKx6fsDT3AVcMiVFyA",
+            "channelName":"Tamaki Ch. 犬山たまき / 佃煮のりお",
+            "icon":null,
+            "cosName":null,
+            "channelImp":{
+                "m":32.7,
+                "o":12.9,
+                "i":7.7
+            },
+            "videos":[
+                {
+                    "videoId":"M5FqUyIVaVo",
+                    "title":"ドラマツルギー / Eve(covered by 犬山たまき)",
+                    "impression":{
+                        "m":27.6,
+                        "o":19.4,
+                        "i":17.2
+                    }
+                },
+                {
+                    "videoId":"BFkE-JVGI-8",
+                    "title":"群青 / YOASOBI(covered by 犬山たまき)",
+                    "impression":{
+                        "o":19.3,
+                        "m":16.6,
+                        "f":8.7
+                    }
+                },
+                {
+                    "videoId":"1Wa3VV0ZfCo",
+                    "title":"妄想感傷代償連盟 / DECO*27(covered by 犬山たまき)",
+                    "impression":{
+                        "m":53.9,
+                        "h":0.9,
+                        "j":0.6
                     }
                 }
             ]
@@ -1689,9 +1854,9 @@
             "icon":"https://yt3.ggpht.com/ytc/AIdro_mWoZ_onsr56ZbnQQ21cnkYPfKTMJNHN3UOc1lmr44mTuc=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@hoshikawasara",
             "channelImp":{
-                "o":37.9,
-                "g":12.2,
-                "h":7.5
+                "h":32.9,
+                "o":14.9,
+                "d":7.1
             },
             "videos":[
                 {
@@ -1720,16 +1885,305 @@
                         "h":2.2,
                         "c":0.9
                     }
+                },
+                {
+                    "videoId":"YWwksZ0q_vo",
+                    "title":"DONBURA KONBURA SPEAKERS (cover)【織姫星／にじさんじ】",
+                    "impression":{
+                        "d":20.9,
+                        "o":20.5,
+                        "m":9.5
+                    }
+                },
+                {
+                    "videoId":"og7UWM65nOU",
+                    "title":"ハッピーシンセサイザ／covered by星川サラ×憩居ももあ",
+                    "impression":{
+                        "h":41.4,
+                        "o":6.9,
+                        "e":5.7
+                    }
+                },
+                {
+                    "videoId":"XRh7SiA5io4",
+                    "title":"きゅうくらりん／星川サラ (cover)",
+                    "impression":{
+                        "h":40.8,
+                        "e":19.5,
+                        "o":16.4
+                    }
+                },
+                {
+                    "videoId":"1-0BmcEB54o",
+                    "title":"【MV】四六時ちゅっちゅ！／星川サラ【オリジナル曲】",
+                    "impression":{
+                        "h":50.0,
+                        "b":48.3,
+                        "n":1.7
+                    }
+                },
+                {
+                    "videoId":"twEQClq5zuk",
+                    "title":"わざとあざとエキスパート／covered by 星川サラ×天音かなた×胡桃のあ×獅子堂あかり",
+                    "impression":{
+                        "o":35.1,
+                        "h":30.9,
+                        "g":4.4
+                    }
+                },
+                {
+                    "videoId":"zHIhSbi8s70",
+                    "title":"Overdose／星川サラ (cover)",
+                    "impression":{
+                        "h":62.0,
+                        "a":19.5,
+                        "m":5.6
+                    }
+                },
+                {
+                    "videoId":"F5uzlCUrFiI",
+                    "title":"『推しの子』サインはB／covered by 星川サラ×壱百満天原サロメ×笹木咲【にじさんじ】",
+                    "impression":{
+                        "l":24.5,
+                        "o":22.2,
+                        "d":17.8
+                    }
+                },
+                {
+                    "videoId":"x0_tjuGvGI8",
+                    "title":"東京サマーセッション / Covered by おりひめばるつ",
+                    "impression":{
+                        "e":26.0,
+                        "m":25.3,
+                        "d":22.0
+                    }
+                },
+                {
+                    "videoId":"zZem-Wl0M0Y",
+                    "title":"妄想アスパルテーム ♡ 星川サラ (cover)",
+                    "impression":{
+                        "b":50.1,
+                        "h":23.0,
+                        "o":18.5
+                    }
+                },
+                {
+                    "videoId":"OY6MF0Bo1J4",
+                    "title":"１＋１でQ.E.D.！！／星川サラ＆ラトナ・プティ【歌ってみた】",
+                    "impression":{
+                        "h":48.7,
+                        "o":15.4,
+                        "l":6.4
+                    }
+                },
+                {
+                    "videoId":"QB0cqRiwhKs",
+                    "title":"如月アテンション／じん covered by 星川サラ",
+                    "impression":{
+                        "h":41.7,
+                        "o":38.1,
+                        "i":12.3
+                    }
+                },
+                {
+                    "videoId":"2R8AoWzgHpU",
+                    "title":"【MV】わがままらぶちゅ／織姫星【にじさんじ】",
+                    "impression":{
+                        "b":95.1,
+                        "h":2.7,
+                        "n":1.5
+                    }
+                },
+                {
+                    "videoId":"xjcDlUVMEJo",
+                    "title":"東京サニーパーティー ♡ 星川サラ×Hanon×Kotoha【歌ってみた】",
+                    "impression":{
+                        "h":51.4,
+                        "o":22.1,
+                        "i":11.6
+                    }
+                },
+                {
+                    "videoId":"tUM0Q7mraGE",
+                    "title":"【シャニマス】SOS ♡ 星川サラ(cover)",
+                    "impression":{
+                        "h":48.4,
+                        "i":40.3,
+                        "e":9.7
+                    }
+                },
+                {
+                    "videoId":"lBH0MhtJvUU",
+                    "title":"醜形恐怖症 ♡ 星川サラ(Cover)",
+                    "impression":{
+                        "h":50.5,
+                        "e":44.7,
+                        "d":3.1
+                    }
+                },
+                {
+                    "videoId":"jG1RJ3kp48Q",
+                    "title":"CH4NGE - Giga／星川サラ(Cover)",
+                    "impression":{
+                        "m":59.9,
+                        "h":20.5,
+                        "a":4.9
+                    }
+                },
+                {
+                    "videoId":"Jhho1HS0ysc",
+                    "title":"バグ／星川サラ＆樋口楓【歌ってみた】",
+                    "impression":{
+                        "o":25.0,
+                        "m":13.1,
+                        "a":10.1
+                    }
+                },
+                {
+                    "videoId":"kaMi5JliYok",
+                    "title":"例えば僕が君のことを飽きちゃうなんて🎶歌ってみた「ネオネオン／DECO*27」【にじさんじ/星川サラ】#shorts",
+                    "impression":{
+                        "h":29.3,
+                        "i":10.2,
+                        "f":8.7
+                    }
+                },
+                {
+                    "videoId":"jtDxHRtnEdI",
+                    "title":"ネオネオン／星川サラ cover【DECO*27】",
+                    "impression":{
+                        "f":26.1,
+                        "d":25.7,
+                        "o":24.3
+                    }
+                },
+                {
+                    "videoId":"DFGJ8PhjrlM",
+                    "title":"魔法少女とチョコレゐト ♡ 星川サラ＆紫咲シオン【歌ってみた】",
+                    "impression":{
+                        "h":54.8,
+                        "o":22.6,
+                        "m":1.8
+                    }
+                },
+                {
+                    "videoId":"gG9Hjdcl0mE",
+                    "title":"キャットラビング ♡ 星川サラ【歌ってみた】",
+                    "impression":{
+                        "h":27.2,
+                        "c":18.9,
+                        "a":18.6
+                    }
+                },
+                {
+                    "videoId":"Xnl8Sh8sDNM",
+                    "title":"アニマル ♡ 星川サラ【歌ってみた】",
+                    "impression":{
+                        "h":88.4,
+                        "d":3.2,
+                        "o":2.3
+                    }
+                },
+                {
+                    "videoId":"GhaJOu-TRfs",
+                    "title":"神っぽいな ／星川サラ【歌ってみた】",
+                    "impression":{
+                        "h":59.9,
+                        "o":23.2,
+                        "d":6.4
+                    }
+                },
+                {
+                    "videoId":"KImbybI5DOU",
+                    "title":"ヨワネハキ／星川サラ【歌ってみた】",
+                    "impression":{
+                        "b":62.9,
+                        "d":26.2,
+                        "h":3.9
+                    }
+                },
+                {
+                    "videoId":"kFArQyIS3Ds",
+                    "title":"シンデレラ ♡ 星川サラ【歌ってみた】",
+                    "impression":{
+                        "h":49.7,
+                        "o":11.8,
+                        "d":11.5
+                    }
+                },
+                {
+                    "videoId":"kQv6TjPypfI",
+                    "title":"メンタルチェンソー／星川サラ＆樋口楓【歌ってみた】",
+                    "impression":{
+                        "d":42.3,
+                        "h":29.5,
+                        "o":16.9
+                    }
+                },
+                {
+                    "videoId":"rBnTj-A182U",
+                    "title":"KING (English Cover) / 星川サラ",
+                    "impression":{
+                        "h":54.0,
+                        "a":36.7,
+                        "m":4.8
+                    }
+                },
+                {
+                    "videoId":"LDD0bNmkJ4c",
+                    "title":"シル・ヴ・プレジデント ♡ 歌ってみた【にじさんじ/織姫星】",
+                    "impression":{
+                        "b":68.1,
+                        "h":20.1,
+                        "o":9.7
+                    }
+                },
+                {
+                    "videoId":"JJo-zUi9E5U",
+                    "title":"ポッピンキャンディ☆フィーバー！／笹木咲・星川サラ cover【キノシタ(kinoshita)】#SSR組",
+                    "impression":{
+                        "h":61.3,
+                        "o":36.6,
+                        "e":0.4
+                    }
+                },
+                {
+                    "videoId":"074PU-5nIig",
+                    "title":"【俺ガイル】かしこガール／星川サラ cover【一色いろは】",
+                    "impression":{
+                        "b":87.3,
+                        "m":6.4,
+                        "h":3.3
+                    }
+                },
+                {
+                    "videoId":"ZbLF3rjEANk",
+                    "title":"おじゃま虫♡星川サラ cover【DECO*27】",
+                    "impression":{
+                        "h":39.5,
+                        "i":10.7,
+                        "e":0.9
+                    }
+                },
+                {
+                    "videoId":"3C1iJ0-cP2E",
+                    "title":"ヒロイン育成計画♡星川サラ cover【HoneyWorks】",
+                    "impression":{
+                        "h":94.7,
+                        "i":1.5,
+                        "o":1.4
+                    }
+                },
+                {
+                    "videoId":"xMpTFCca9qo",
+                    "title":"Booo! ／ 星川サラ cover【TOKOTOKO/西沢さんP】",
+                    "impression":{
+                        "o":37.8,
+                        "d":26.8,
+                        "h":9.8
+                    }
                 }
             ]
-        },
-        {
-            "channelId":"UC9vbsrHnodkYC4hdfJN3mAg",
-            "channelName":"illion - Topic",
-            "icon":"https://yt3.ggpht.com/ytc/AIdro_kvBErXkyuHxtdLKKOIQaGjdLDFEYMGES3xk3XH_BqhLA=s88-c-k-c0x00ffffff-no-rj",
-            "cosName":"-",
-            "channelImp":{},
-            "videos":[]
         },
         {
             "channelId":"UCAaGaynFpku5cAx6OOSrW-w",
@@ -2113,20 +2567,11 @@
             "icon":"https://yt3.ggpht.com/ytc/AIdro_kyaDXQy6wcyVHHPh2z0ddFYHwmZfEenPqck7aGstrgX8k=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@namirin",
             "channelImp":{
-                "o":57.8,
-                "m":10.3,
-                "d":10.2
+                "o":38.0,
+                "d":18.6,
+                "h":8.0
             },
             "videos":[
-                {
-                    "videoId":"uKxyLmbOc0Q",
-                    "title":"Renai Circulation「恋愛サーキュレーション」歌ってみた【＊なみりん】",
-                    "impression":{
-                        "o":77.6,
-                        "m":17.2,
-                        "g":3.4
-                    }
-                },
                 {
                     "videoId":"q_sQUK418mM",
                     "title":"「only my railgun」歌ってみた【＊なみりん】",
@@ -2482,20 +2927,11 @@
             "icon":"https://yt3.ggpht.com/sZmx0LvpRjXuwHJpU2tHFUiLkF3wPvJa3l_f8gxx45MJNwbbtmjq0wI2gb1Ybf4YmSgksgJ8ug=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@kagura_nana",
             "channelImp":{
-                "h":18.4,
-                "m":17.2,
-                "o":12.0
+                "m":19.0,
+                "o":15.7,
+                "h":15.3
             },
             "videos":[
-                {
-                    "videoId":"OulBLGWhLH8",
-                    "title":"【MMD】Gimme×Gimme／covered by カグラナナ【4K】",
-                    "impression":{
-                        "o":75.9,
-                        "a":6.0,
-                        "d":4.8
-                    }
-                },
                 {
                     "videoId":"futUtWBiln8",
                     "title":"君色に染まる covered by カグラナナ【4K】",
@@ -2503,42 +2939,6 @@
                         "b":51.2,
                         "h":17.4,
                         "o":7.0
-                    }
-                },
-                {
-                    "videoId":"X4gdHEsn6xg",
-                    "title":"【MMD】キャットラビング ／ Nana Dance #shorts",
-                    "impression":{
-                        "h":50.0,
-                        "a":30.0,
-                        "b":20.0
-                    }
-                },
-                {
-                    "videoId":"ooKS8VwRT7c",
-                    "title":"【歌ってみた】ラヴィ(Lavie)/ すりぃ covered by カグラナナ",
-                    "impression":{
-                        "a":50.0,
-                        "h":21.4,
-                        "o":7.1
-                    }
-                },
-                {
-                    "videoId":"hTXnHCvjLA4",
-                    "title":"Sweet Devil - 八王子P／covered by カグラナナ【歌ってみた】",
-                    "impression":{
-                        "h":71.6,
-                        "a":4.9,
-                        "o":2.0
-                    }
-                },
-                {
-                    "videoId":"iYFGRkY_H18",
-                    "title":"【推しの子】アイドル / YOASOBI 3Dで歌ってみた【カグラナナ】#shorts",
-                    "impression":{
-                        "m":28.6,
-                        "o":14.3,
-                        "h":14.3
                     }
                 },
                 {
@@ -2560,92 +2960,12 @@
                     }
                 },
                 {
-                    "videoId":"9gKCeLido-M",
-                    "title":"デーモンロード / イラストレーターが歌ってみた  #カグラナナch #shorts",
-                    "impression":{
-                        "d":28.6,
-                        "a":28.6,
-                        "o":14.3
-                    }
-                },
-                {
                     "videoId":"wjBToHUM9V8",
                     "title":"ロウワー / ぬゆり covered by カグラナナ × 電脳少女シロ【歌ってみた】",
                     "impression":{
                         "a":31.4,
                         "h":25.6,
                         "o":3.5
-                    }
-                },
-                {
-                    "videoId":"pee9O-K4IvY",
-                    "title":"レクイエム / Kanaria  covered by カグラナナ × Axel Syrios【歌ってみた】",
-                    "impression":{
-                        "j":33.8,
-                        "a":20.7,
-                        "d":17.7
-                    }
-                },
-                {
-                    "videoId":"LqWo_qJzU1U",
-                    "title":"ヴィータ / covered by カグラナナ×人生つみこ【歌ってみた】",
-                    "impression":{
-                        "a":86.8,
-                        "b":10.3,
-                        "d":2.9
-                    }
-                },
-                {
-                    "videoId":"UELrlJvInCY",
-                    "title":"イラストレーターが『酔いどれ知らず』歌って踊ってみた #カグラナナ",
-                    "impression":{
-                        "m":28.6,
-                        "o":21.4,
-                        "h":17.9
-                    }
-                },
-                {
-                    "videoId":"1tUVVU23-vU",
-                    "title":"アイデンティティ- Kanaria covered by カグラナナ × Kureiji Ollie",
-                    "impression":{
-                        "e":58.9,
-                        "o":17.8,
-                        "h":7.3
-                    }
-                },
-                {
-                    "videoId":"AeRpwz7bkA4",
-                    "title":"【歌ってみた】初恋日記 / 香椎モイミ covered by カグラナナ",
-                    "impression":{
-                        "d":36.0,
-                        "o":27.0,
-                        "m":23.0
-                    }
-                },
-                {
-                    "videoId":"UmB-I07aQVA",
-                    "title":"カグラナナ1st Album 『Astrolabe』クロスフェード",
-                    "impression":{
-                        "m":50.0,
-                        "b":50.0
-                    }
-                },
-                {
-                    "videoId":"bSHeS4izUHE",
-                    "title":"【オリジナル曲】Blue Battlecry - カグラナナ 【3Dライブ】",
-                    "impression":{
-                        "b":66.7,
-                        "m":20.8,
-                        "a":8.3
-                    }
-                },
-                {
-                    "videoId":"3wsawGPizw0",
-                    "title":"カラオケいこっか！【新モーションお披露目あり】",
-                    "impression":{
-                        "h":33.3,
-                        "e":16.7,
-                        "d":16.7
                     }
                 },
                 {
@@ -2676,15 +2996,6 @@
                     }
                 },
                 {
-                    "videoId":"Tx6n0g4ynlY",
-                    "title":"深淵 / ヰ世界情緒 feat.花譜 covered by 杏仁ミル × カグラナナ",
-                    "impression":{
-                        "m":28.1,
-                        "a":21.9,
-                        "e":6.2
-                    }
-                },
-                {
                     "videoId":"fYx6l2g1fZ4",
                     "title":"【歌ってみた】一度だけの恋なら  covered by カグラナナ × 木村千咲",
                     "impression":{
@@ -2703,24 +3014,6 @@
                     }
                 },
                 {
-                    "videoId":"_7tndcpZwPY",
-                    "title":"うまぴょい伝説 ／ covered by カグラナナ【ウマ娘1周年おめでとう！！！！】",
-                    "impression":{
-                        "h":43.7,
-                        "b":37.5,
-                        "m":18.8
-                    }
-                },
-                {
-                    "videoId":"sAuUI3KL_LQ",
-                    "title":"【4K special edition】エバ / covered by カグラナナ",
-                    "impression":{
-                        "h":26.2,
-                        "a":26.2,
-                        "j":16.7
-                    }
-                },
-                {
                     "videoId":"pY9AeWeSHBo",
                     "title":"神っぽいな / covered by カグラナナ〖 God-ish 〗",
                     "impression":{
@@ -2730,39 +3023,12 @@
                     }
                 },
                 {
-                    "videoId":"IL-MQEih8R8",
-                    "title":"シル・ヴ・プレジデント / covered by カグラナナ×konoco",
-                    "impression":{
-                        "c":17.4,
-                        "h":14.0,
-                        "a":10.5
-                    }
-                },
-                {
                     "videoId":"X3vXZcDS1Y4",
                     "title":"フォニイ / ツミキ ‐ covered by カグラナナ",
                     "impression":{
                         "m":27.2,
                         "d":25.4,
                         "a":10.5
-                    }
-                },
-                {
-                    "videoId":"S5x_epNV7s8",
-                    "title":"ECHO ／ covered by カグラナナAlter【歌ってみた】",
-                    "impression":{
-                        "a":29.0,
-                        "m":27.4,
-                        "h":12.3
-                    }
-                },
-                {
-                    "videoId":"5s1Fg2QRlK4",
-                    "title":"【Roselia】FIRE BIRD／歌って踊ってみた ‐ カグラナナ",
-                    "impression":{
-                        "h":40.2,
-                        "m":16.4,
-                        "d":16.4
                     }
                 },
                 {
@@ -2784,39 +3050,12 @@
                     }
                 },
                 {
-                    "videoId":"vo26jGSDOQs",
-                    "title":"ラブカ？-柊キライ／covered by カグラナナ【歌ってみた】",
-                    "impression":{
-                        "b":52.1,
-                        "d":24.0,
-                        "a":8.0
-                    }
-                },
-                {
                     "videoId":"grbHrPE2R08",
                     "title":"【歌ってみた】幽霊東京／Ayase- covered by カグラナナ",
                     "impression":{
                         "d":12.5,
                         "m":11.1,
                         "o":9.7
-                    }
-                },
-                {
-                    "videoId":"ZOZq6z-rTyk",
-                    "title":"クレイジークレイジー／竜胆尊×カグラナナ【歌ってみた】",
-                    "impression":{
-                        "m":23.3,
-                        "o":22.1,
-                        "d":15.1
-                    }
-                },
-                {
-                    "videoId":"ZWFaPpRqAlE",
-                    "title":"夜に駆ける／covered by カグラナナ",
-                    "impression":{
-                        "m":36.3,
-                        "d":20.6,
-                        "a":13.2
                     }
                 },
                 {
@@ -2829,30 +3068,12 @@
                     }
                 },
                 {
-                    "videoId":"n_q72gUaE74",
-                    "title":"【4K】ぴこぴこ東京／カグラナナ×クレー(cv.花园花玲)【歌ってみた】",
-                    "impression":{
-                        "o":33.3,
-                        "m":26.4,
-                        "h":20.8
-                    }
-                },
-                {
                     "videoId":"OTlSv11KRGI",
                     "title":"打上花火／covered byカグラナナ×犬山たまき【歌ってみた】",
                     "impression":{
                         "m":46.5,
                         "j":38.0,
                         "d":10.2
-                    }
-                },
-                {
-                    "videoId":"QsOfPWq8ovg",
-                    "title":"【新衣装MMD】おねがいダーリン♡covered by カグラナナ【歌ってみた】",
-                    "impression":{
-                        "h":50.0,
-                        "m":25.0,
-                        "e":25.0
                     }
                 },
                 {
@@ -2892,39 +3113,12 @@
                     }
                 },
                 {
-                    "videoId":"Z4vDQETrdhg",
-                    "title":"【カグラナナ】Adastra【オリジナル曲】",
-                    "impression":{
-                        "h":24.0,
-                        "d":18.7,
-                        "i":12.5
-                    }
-                },
-                {
-                    "videoId":"FYZqitee64k",
-                    "title":"フラジール covered byカグラナナ",
-                    "impression":{
-                        "m":45.0,
-                        "d":10.0,
-                        "h":5.0
-                    }
-                },
-                {
                     "videoId":"1HssP4Q47sA",
                     "title":"♡ ヒトリゴト ♡ 歌ってみた／カグラナナ×鹿乃",
                     "impression":{
                         "h":50.9,
                         "o":32.1,
                         "e":5.7
-                    }
-                },
-                {
-                    "videoId":"Zzw3YlgIpbg",
-                    "title":"橫豎撇點折／カグラナナcover【中国語歌唱】",
-                    "impression":{
-                        "b":61.9,
-                        "m":14.3,
-                        "e":11.9
                     }
                 },
                 {
@@ -2943,15 +3137,6 @@
                         "o":25.6,
                         "d":25.6,
                         "m":13.4
-                    }
-                },
-                {
-                    "videoId":"DiLHtZhI2YA",
-                    "title":"钢铁直男‐insensitive boyfriend／カグラナナcover",
-                    "impression":{
-                        "i":74.0,
-                        "h":16.4,
-                        "m":3.4
                     }
                 },
                 {
@@ -2979,24 +3164,6 @@
                         "m":35.0,
                         "e":26.9,
                         "j":7.8
-                    }
-                },
-                {
-                    "videoId":"HyGV8cjGaiE",
-                    "title":"恋空予報／カグラナナ【歌ってみた】",
-                    "impression":{
-                        "h":45.8,
-                        "g":8.3,
-                        "e":8.3
-                    }
-                },
-                {
-                    "videoId":"G6AcztMMGdI",
-                    "title":"【ロボ子さん×カグラナナ】ラブレター【歌ってみた】",
-                    "impression":{
-                        "h":76.0,
-                        "m":7.3,
-                        "e":7.3
                     }
                 },
                 {
@@ -3038,18 +3205,18 @@
             "icon":"https://yt3.ggpht.com/eY2ZbT0Nv6aREdCMlZgad2tfALZZB9n-NqK_z4Eryj55mfJTVFhMCBgRjVnkpWUVuTM8Rbp0jQ=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@arakich",
             "channelImp":{
-                "b":81.3,
-                "o":12.2,
-                "a":3.3
+                "g":72.8,
+                "o":4.2,
+                "a":0.7
             },
             "videos":[
                 {
-                    "videoId":"MSPKw1Z10U4",
-                    "title":"URUSaaA愛　Covered by あらき",
+                    "videoId":"Gikiu7VyC9E",
+                    "title":"ヒバナ　Covered by あらき",
                     "impression":{
-                        "b":81.3,
-                        "o":12.2,
-                        "a":3.3
+                        "g":72.8,
+                        "o":4.2,
+                        "a":0.7
                     }
                 }
             ]
@@ -3582,20 +3749,11 @@
             "icon":"https://yt3.ggpht.com/8U3jlgaSNSJBkqyEI0j4XaT9cRLspqvjuyCkxw6xkfnWRqobKEJA-yJtx9UOZPFWN3jQimcYKc8=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@yozoramel",
             "channelImp":{
-                "o":56.8,
-                "h":15.1,
-                "a":6.7
+                "o":79.3,
+                "h":12.3,
+                "d":5.1
             },
             "videos":[
-                {
-                    "videoId":"KhrPiFZ4Sm8",
-                    "title":"🌟吸血鬼が「ディスコミュ星人」歌ってみた【ホロライブ/夜空メル】",
-                    "impression":{
-                        "o":34.3,
-                        "h":17.9,
-                        "a":13.4
-                    }
-                },
                 {
                     "videoId":"tftbi551s8Q",
                     "title":"吸血鬼が歌う-ヴァンパイア-/夜空メル(cover)",
@@ -3635,9 +3793,9 @@
             "icon":"https://yt3.ggpht.com/ytc/AIdro_nYL0_zsL4Kqp3JO97HRxZ5oBTdr1Vmompg7HKZpmyynkk=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@shirakamifubuki",
             "channelImp":{
-                "o":25.9,
-                "h":21.9,
-                "e":1.3
+                "h":41.1,
+                "o":12.7,
+                "l":5.4
             },
             "videos":[
                 {
@@ -3656,6 +3814,60 @@
                         "b":66.2,
                         "h":29.2,
                         "o":2.2
+                    }
+                },
+                {
+                    "videoId":"pFgUluV_00s",
+                    "title":"Say!ファンファーレ!/白上フブキ【オリジナル曲】",
+                    "impression":{
+                        "h":77.4,
+                        "e":21.4,
+                        "o":0.3
+                    }
+                },
+                {
+                    "videoId":"c2hbKnXIa_c",
+                    "title":"KONKON Beats/白上フブキ(Original)",
+                    "impression":{
+                        "i":15.5,
+                        "h":12.6,
+                        "d":7.1
+                    }
+                },
+                {
+                    "videoId":"V6RROopwuOg",
+                    "title":"ビターチョコデコレーション／ 白上フブキ",
+                    "impression":{
+                        "l":41.4,
+                        "h":32.6,
+                        "d":10.4
+                    }
+                },
+                {
+                    "videoId":"dPX0_IEXVRo",
+                    "title":"シル・ヴ・プレジデント／白上フブキ(Cover)",
+                    "impression":{
+                        "h":44.1,
+                        "o":41.1,
+                        "d":5.0
+                    }
+                },
+                {
+                    "videoId":"SoKUnV6ktqA",
+                    "title":"腐れ外道とチョコレゐト/白上フブキ(cover)",
+                    "impression":{
+                        "h":72.8,
+                        "d":0.6,
+                        "o":0.6
+                    }
+                },
+                {
+                    "videoId":"sSIzlmDcywQ",
+                    "title":"だいしきゅーだいしゅき/白上フブキ(cover)",
+                    "impression":{
+                        "h":45.5,
+                        "n":1.5,
+                        "d":1.2
                     }
                 }
             ]
@@ -3732,9 +3944,9 @@
             "icon":"https://yt3.ggpht.com/gPrewHbU03ESUuDUenbPZGzs4dCGTvlBETrLkAA-7_SAVmdTRzTc_jAamoxtop3ISlnn-skW=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@naniwadanshi",
             "channelImp":{
-                "j":22.5,
-                "a":9.8,
-                "o":9.0
+                "i":14.5,
+                "d":11.5,
+                "a":8.3
             },
             "videos":[
                 {
@@ -3744,15 +3956,6 @@
                         "i":14.5,
                         "d":11.5,
                         "a":8.3
-                    }
-                },
-                {
-                    "videoId":"1s3BT6oXBaA",
-                    "title":"なにわ男子 - LAI-LA-LA [Music Video Dance ver.] YouTube ver.",
-                    "impression":{
-                        "j":44.9,
-                        "o":16.2,
-                        "a":11.3
                     }
                 }
             ]
@@ -3987,328 +4190,6 @@
             ]
         },
         {
-            "channelId":"UCEuqN76-F2rl1-08aGt8siA",
-            "channelName":"東 雪蓮Seren Azuma",
-            "icon":"https://yt3.ggpht.com/Fk9NvbdlELdAF-8dF08Q3hMtmEhu02GquZf0jgc-_GerAdF-rybmfIKLFzOPU2wbc_KCuX8q=s88-c-k-c0x00ffffff-no-rj",
-            "cosName":"@serenazuma",
-            "channelImp":{
-                "m":25.5,
-                "d":13.9,
-                "h":10.0
-            },
-            "videos":[
-                {
-                    "videoId":"rXUqg9DSpa0",
-                    "title":"ド屑 /東 雪蓮(cover)",
-                    "impression":{
-                        "m":100.0
-                    }
-                },
-                {
-                    "videoId":"gDbPRGgCJJk",
-                    "title":"砂時計の魔法 - 東 雪蓮",
-                    "impression":{
-                        "m":60.0,
-                        "d":20.0,
-                        "o":10.0
-                    }
-                },
-                {
-                    "videoId":"L7PCS7afS3Y",
-                    "title":"ODDS & ENDS / 東 雪蓮 (cover)",
-                    "impression":{
-                        "b":75.0,
-                        "m":12.5,
-                        "d":12.5
-                    }
-                },
-                {
-                    "videoId":"v39OOPJlYC0",
-                    "title":"水星記 Mercury Records / 東 雪蓮 (cover)",
-                    "impression":{
-                        "b":66.7,
-                        "j":16.7,
-                        "e":16.7
-                    }
-                },
-                {
-                    "videoId":"WOhg72NfxOk",
-                    "title":"ワーワーワールド /東雪蓮×kinaxx (cover)",
-                    "impression":{
-                        "d":50.0,
-                        "o":33.3,
-                        "e":16.7
-                    }
-                },
-                {
-                    "videoId":"ycPcoutniNk",
-                    "title":"クリームソーダとシャンデリア /東雪蓮&天条院アギト (cover)",
-                    "impression":{
-                        "o":31.8,
-                        "m":9.1,
-                        "i":9.1
-                    }
-                },
-                {
-                    "videoId":"0bqOU-J7rU8",
-                    "title":"可愛くてごめん /東 雪蓮 (cover)",
-                    "impression":{
-                        "h":50.0,
-                        "l":36.8,
-                        "m":5.3
-                    }
-                },
-                {
-                    "videoId":"NUl5KFEXnFs",
-                    "title":"Limbo /東 雪蓮 (cover)",
-                    "impression":{
-                        "d":44.8,
-                        "m":3.4,
-                        "i":3.4
-                    }
-                },
-                {
-                    "videoId":"yZJ4Pr4fe_4",
-                    "title":"ナーヴ・インパルス /東 雪蓮 (cover)",
-                    "impression":{
-                        "m":58.3,
-                        "h":33.3,
-                        "b":8.3
-                    }
-                },
-                {
-                    "videoId":"ZC0Ltj7a3tw",
-                    "title":"キャットラビング /東 雪蓮 (cover)",
-                    "impression":{
-                        "m":50.0,
-                        "d":25.0,
-                        "b":25.0
-                    }
-                },
-                {
-                    "videoId":"lkw2XD3vEC0",
-                    "title":"Angels /東 雪蓮(cover)",
-                    "impression":{
-                        "o":16.7,
-                        "m":16.7,
-                        "h":16.7
-                    }
-                },
-                {
-                    "videoId":"7LIIfVTQyRw",
-                    "title":"同担☆拒否 /東 雪蓮(cover)",
-                    "impression":{
-                        "h":66.7,
-                        "m":33.3
-                    }
-                },
-                {
-                    "videoId":"RSUKtKJJNYI",
-                    "title":"NIGHTWALK feat.23.exe - 東 雪蓮",
-                    "impression":{
-                        "d":40.0,
-                        "m":30.0,
-                        "b":30.0
-                    }
-                },
-                {
-                    "videoId":"nRIdVj07aNU",
-                    "title":"合言葉 feat.picco - 東 雪蓮",
-                    "impression":{
-                        "m":50.0,
-                        "h":50.0
-                    }
-                },
-                {
-                    "videoId":"XzGlN2xJ-Wg",
-                    "title":"Justin Bieber - Peaches ft. Daniel Caesar, Giveon /東 雪蓮 (cover)",
-                    "impression":{
-                        "e":25.0,
-                        "d":25.0,
-                        "m":20.0
-                    }
-                },
-                {
-                    "videoId":"w9npR6HLs4I",
-                    "title":"Overthinking - 東 雪蓮",
-                    "impression":{
-                        "m":25.0,
-                        "e":25.0,
-                        "d":25.0
-                    }
-                },
-                {
-                    "videoId":"mq3-SKb9NMg",
-                    "title":"エイリアンズ - キリンジ /東 雪蓮(cover)",
-                    "impression":{
-                        "m":37.5,
-                        "e":12.5,
-                        "d":12.5
-                    }
-                },
-                {
-                    "videoId":"7o_1mBgXqsI",
-                    "title":"さようなら、花泥棒さん /東 雪蓮(cover)",
-                    "impression":{
-                        "d":33.3,
-                        "h":22.2,
-                        "a":16.7
-                    }
-                },
-                {
-                    "videoId":"BgNVwiX7K8E",
-                    "title":"fill up - 東 雪蓮",
-                    "impression":{
-                        "e":50.0,
-                        "d":25.0,
-                        "b":25.0
-                    }
-                },
-                {
-                    "videoId":"tIyYg1Dt6CU",
-                    "title":"SAY SO - Doja Cat [Japanese Version] / 東 雪蓮(cover)",
-                    "impression":{
-                        "l":75.0,
-                        "b":25.0
-                    }
-                },
-                {
-                    "videoId":"nB60wRGqX4I",
-                    "title":"【日本語/English】踊 - ado /東 雪蓮 (cover)",
-                    "impression":{
-                        "o":50.0,
-                        "b":50.0
-                    }
-                },
-                {
-                    "videoId":"HMoLwWn2leY",
-                    "title":"三ヶ国語で「シル・ヴ・プレジデント」を歌ってみた。",
-                    "impression":{
-                        "o":66.7,
-                        "d":33.3
-                    }
-                },
-                {
-                    "videoId":"RntC8taYu4Y",
-                    "title":"さとうもか - melt bitter /東 雪蓮 (cover)",
-                    "impression":{
-                        "b":64.9,
-                        "e":18.9,
-                        "n":13.5
-                    }
-                },
-                {
-                    "videoId":"jTzbWEGHdcM",
-                    "title":"Heal Me /東 雪蓮 (cover)",
-                    "impression":{
-                        "m":100.0
-                    }
-                },
-                {
-                    "videoId":"GaoXNsvfexM",
-                    "title":"寄り酔い /東 雪蓮 (cover)",
-                    "impression":{
-                        "b":66.7,
-                        "m":16.7,
-                        "d":16.7
-                    }
-                },
-                {
-                    "videoId":"eLfhJmhYOcA",
-                    "title":"prologue.01 - 東 雪蓮",
-                    "impression":{
-                        "m":100.0
-                    }
-                },
-                {
-                    "videoId":"fTga-GyLtaI",
-                    "title":"kiki vivi lily - 80denier/東 雪蓮(cover)",
-                    "impression":{
-                        "o":50.0,
-                        "d":50.0
-                    }
-                },
-                {
-                    "videoId":"2W6Jv93qhD8",
-                    "title":"Babyblue Lip /東 雪蓮(cover)",
-                    "impression":{
-                        "b":57.1,
-                        "d":28.6,
-                        "m":7.1
-                    }
-                },
-                {
-                    "videoId":"qvEcZRsMytQ",
-                    "title":"ヴァンパイア/東 雪蓮(cover)",
-                    "impression":{
-                        "i":100.0
-                    }
-                },
-                {
-                    "videoId":"i50sUufNbzY",
-                    "title":"ルーマー /東雪蓮(cover)",
-                    "impression":{
-                        "j":54.5,
-                        "m":18.2,
-                        "h":18.2
-                    }
-                },
-                {
-                    "videoId":"mTNMRxaM-7w",
-                    "title":"[MV] 帰り道 - 東 雪蓮",
-                    "impression":{
-                        "m":50.0,
-                        "e":50.0
-                    }
-                },
-                {
-                    "videoId":"HswY1-VZSzk",
-                    "title":"食虫植物/東 雪蓮(cover)",
-                    "impression":{
-                        "b":50.0,
-                        "m":33.3,
-                        "a":16.7
-                    }
-                },
-                {
-                    "videoId":"3vi1GYY3jCw",
-                    "title":"Plastic Love - Mariya Takeuchi /東 雪蓮(cover)",
-                    "impression":{
-                        "m":33.3,
-                        "l":11.1,
-                        "d":11.1
-                    }
-                },
-                {
-                    "videoId":"5Pw5vzRMSS0",
-                    "title":"じゅくじゅく/東 雪蓮 (cover)",
-                    "impression":{
-                        "d":33.3,
-                        "n":11.1,
-                        "m":11.1
-                    }
-                },
-                {
-                    "videoId":"swwXJ696Bgo",
-                    "title":"[MV] だいじょうぶ - 東 雪蓮",
-                    "impression":{
-                        "m":33.3,
-                        "e":33.3,
-                        "b":33.3
-                    }
-                },
-                {
-                    "videoId":"mGlKwxKUd0s",
-                    "title":"CHO-DARI- /東 雪蓮 (cover)",
-                    "impression":{
-                        "h":81.2,
-                        "o":12.5,
-                        "b":6.2
-                    }
-                }
-            ]
-        },
-        {
             "channelId":"UCEy9cYULQrC2cRlVqJPCcSw",
             "channelName":"水無瀬 / Minase",
             "icon":"https://yt3.ggpht.com/5LqY28560giu4XeQ2zFonydxXUCR-8OCsvCLPZfl9XttnBGVNMpyN7Uy8TBxBXetoG4ISrDlhyk=s88-c-k-c0x00ffffff-no-rj",
@@ -4357,6 +4238,28 @@
                         "m":39.1,
                         "h":30.9,
                         "d":2.4
+                    }
+                }
+            ]
+        },
+        {
+            "channelId":"UCf-PcSHzYAtfcoiBr5C9DZA",
+            "channelName":"長瀬有花 / YUKA NAGASE",
+            "icon":null,
+            "cosName":null,
+            "channelImp":{
+                "b":62.5,
+                "e":20.4,
+                "d":5.0
+            },
+            "videos":[
+                {
+                    "videoId":"7omRbjTd9c8",
+                    "title":"オドループ (Oddloop) - フレデリック // covered by 長瀬有花",
+                    "impression":{
+                        "b":62.5,
+                        "e":20.4,
+                        "d":5.0
                     }
                 }
             ]
@@ -4464,9 +4367,9 @@
             "icon":"https://yt3.ggpht.com/jbtd23g0MtEHoVXRqtLtVIRk9r01Ij1xPEAT2kP81AWyfuQBJV97p-WxbIJvUeyK1MXH7s4G=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@hiiragi_magne",
             "channelImp":{
-                "b":56.0,
-                "o":17.3,
-                "h":13.2
+                "b":98.4,
+                "d":0.6,
+                "h":0.4
             },
             "videos":[
                 {
@@ -4476,32 +4379,6 @@
                         "b":98.4,
                         "d":0.6,
                         "h":0.4
-                    }
-                },
-                {
-                    "videoId":"6yRl1tQ6y4U",
-                    "title":"柊マグネタイト - ラッシャイナ feat. 可不",
-                    "impression":{
-                        "b":98.9,
-                        "o":1.1
-                    }
-                },
-                {
-                    "videoId":"G07TPX7i56g",
-                    "title":"柊マグネタイト - カノン feat. 可不",
-                    "impression":{
-                        "o":49.2,
-                        "i":46.6,
-                        "h":2.3
-                    }
-                },
-                {
-                    "videoId":"scmZJtHFN1c",
-                    "title":"柊マグネタイト - 撫でんな feat. 可不",
-                    "impression":{
-                        "h":50.0,
-                        "o":18.6,
-                        "d":5.8
                     }
                 }
             ]
@@ -4534,9 +4411,9 @@
             "icon":"https://yt3.ggpht.com/ytc/AIdro_nTcEFp3yPVmvsfVlz7wxlwQSb8C7MBctU6RRG3GM3H7A=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@40mp",
             "channelImp":{
-                "b":62.6,
-                "a":17.3,
-                "o":9.9
+                "b":54.4,
+                "a":21.7,
+                "o":12.3
             },
             "videos":[
                 {
@@ -4564,15 +4441,6 @@
                         "a":86.4,
                         "o":2.2,
                         "d":1.0
-                    }
-                },
-                {
-                    "videoId":"yIQDGwyJpSo",
-                    "title":"【初音ミク(40㍍)】 トリノコシティ Torinoko City【オリジナル】",
-                    "impression":{
-                        "b":95.6,
-                        "n":4.1,
-                        "o":0.2
                     }
                 },
                 {
@@ -5048,9 +4916,9 @@
             "icon":"https://yt3.ggpht.com/ytc/AIdro_kC1hGABaFXRIIsIVAnAGtapBGgutIqh319g7PDSFwaBGyM=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@164203",
             "channelImp":{
-                "f":34.3,
-                "e":15.9,
-                "a":5.5
+                "b":54.8,
+                "e":23.0,
+                "f":9.1
             },
             "videos":[
                 {
@@ -5069,15 +4937,6 @@
                         "b":98.2,
                         "o":1.1,
                         "d":0.3
-                    }
-                },
-                {
-                    "videoId":"Eoj9UcNv3Eo",
-                    "title":"残響／164 feat.GUMI",
-                    "impression":{
-                        "f":84.8,
-                        "d":6.5,
-                        "o":4.7
                     }
                 }
             ]
@@ -5141,45 +5000,11 @@
             "icon":"https://yt3.ggpht.com/ytc/AIdro_nKCZ5C8BjLEKOZ39yFxZ1gGUq95YFWOj0yoE9-8Tlyog=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@officialnayutalien1318",
             "channelImp":{
-                "o":34.4,
-                "g":22.2,
-                "d":6.4
+                "d":24.7,
+                "o":15.0,
+                "g":12.8
             },
             "videos":[
-                {
-                    "videoId":"2t1NMRse6aI",
-                    "title":"ナユタン星人 - エイリアンエイリアン (ft.初音ミク) OFFICIAL MUSIC VIDEO",
-                    "impression":{
-                        "o":58.8,
-                        "i":18.9,
-                        "d":6.8
-                    }
-                },
-                {
-                    "videoId":"Ja9qmYjXk6U",
-                    "title":"ナユタン星人 - 太陽系デスコ (ft.初音ミク) OFFICIAL MUSIC VIDEO",
-                    "impression":{
-                        "o":98.1,
-                        "i":0.3,
-                        "j":0.0
-                    }
-                },
-                {
-                    "videoId":"g7dvpD_zlIM",
-                    "title":"ナユタン星人 - ダンスロボットダンス (ft.初音ミク) OFFICIAL MUSIC VIDEO",
-                    "impression":{
-                        "g":98.3,
-                        "o":0.4,
-                        "d":0.3
-                    }
-                },
-                {
-                    "videoId":"wCj04kwAFX8",
-                    "title":"彗星ハネムーン - ナユタン星人 ft.初音ミク OFFICIAL MUSIC VIDEO",
-                    "impression":{
-                        "b":100.0
-                    }
-                },
                 {
                     "videoId":"LNX0GsjBP2w",
                     "title":"ナユタン星人 - 惑星ループ (ft.初音ミク) OFFICIAL MUSIC VIDEO",
@@ -5609,9 +5434,9 @@
             "icon":"https://yt3.ggpht.com/-PvQaWJWb7UoiXB70c2BXcPr8DK53kiDrPhyXZg_j_LUObcfVErPtcMSYNBg3BQzXBZ8ub2F1w=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@hatsunemiku",
             "channelImp":{
-                "b":71.1,
-                "o":19.5,
-                "d":8.2
+                "b":64.1,
+                "o":24.3,
+                "d":10.2
             },
             "videos":[
                 {
@@ -5648,15 +5473,6 @@
                         "b":56.8,
                         "d":40.1,
                         "o":2.8
-                    }
-                },
-                {
-                    "videoId":"b-xO9poaPEs",
-                    "title":"ネクストネスト (Magical Mirai 10th edit) / さつき が てんこもり feat. 初音ミク",
-                    "impression":{
-                        "b":99.1,
-                        "d":0.4,
-                        "o":0.2
                     }
                 }
             ]
@@ -5820,28 +5636,6 @@
                         "d":25.5,
                         "m":20.7,
                         "e":8.8
-                    }
-                }
-            ]
-        },
-        {
-            "channelId":"UCkv_bAMJEoNJWThutrtlUQQ",
-            "channelName":"雄之助/Yunosuke",
-            "icon":"https://yt3.ggpht.com/914S03qusanRgJusT0qu3owtthubLZFWLSD2u5xBzwDtk1ZchtMXuhH2hWtS-Z4goa35RDso=s88-c-k-c0x00ffffff-no-rj",
-            "cosName":"@yunosuke23",
-            "channelImp":{
-                "h":93.5,
-                "o":2.6,
-                "d":1.3
-            },
-            "videos":[
-                {
-                    "videoId":"XqKbuEDvaf8",
-                    "title":"花となれ / 雄之助 feat. 可不【Music Video】",
-                    "impression":{
-                        "h":93.5,
-                        "o":2.6,
-                        "d":1.3
                     }
                 }
             ]
@@ -6578,9 +6372,9 @@
             "icon":"https://yt3.ggpht.com/KJSO5GeKj3tRmZxin6luFhb_cYjWPPkIUrw669vvgBVGl-TkyLp3-XAgqRSgjlmKV-3MlU-i7A=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@pinocchiop",
             "channelImp":{
-                "b":53.3,
-                "o":20.3,
-                "e":12.1
+                "b":58.9,
+                "o":22.6,
+                "g":7.4
             },
             "videos":[
                 {
@@ -6635,15 +6429,6 @@
                         "e":23.1,
                         "o":17.3,
                         "d":15.4
-                    }
-                },
-                {
-                    "videoId":"8Z3TbMBfDM0",
-                    "title":"ピノキオピー - ありふれたせかいせいふく feat. 初音ミク / Common World Domination",
-                    "impression":{
-                        "e":97.0,
-                        "d":0.6,
-                        "m":0.2
                     }
                 },
                 {
@@ -7537,9 +7322,9 @@
             "icon":"https://yt3.ggpht.com/ytc/AIdro_kYuT6TBzqaS83D_FhEoFwnlzuDgm_uiYPSk85G5IUBDA=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@kairikibear",
             "channelImp":{
-                "o":28.9,
-                "h":10.7,
-                "c":7.5
+                "o":34.2,
+                "h":12.7,
+                "f":7.2
             },
             "videos":[
                 {
@@ -7612,24 +7397,6 @@
                         "o":98.7,
                         "c":0.3,
                         "h":0.2
-                    }
-                },
-                {
-                    "videoId":"nYyddo_VXs8",
-                    "title":"【公式】 カーニバルハッピー／かいりきベア feat.初音ミク",
-                    "impression":{
-                        "b":99.8,
-                        "m":0.1,
-                        "d":0.0
-                    }
-                },
-                {
-                    "videoId":"cDqytGXoXWI",
-                    "title":"【公式】 イヤガール／かいりきベア feat.初音ミク",
-                    "impression":{
-                        "c":72.2,
-                        "o":15.3,
-                        "h":5.6
                     }
                 }
             ]
@@ -8063,9 +7830,9 @@
             "icon":"https://yt3.ggpht.com/3VvLlXkpbuIWeM_OfRc-L31gE8vvJW9XQkgLlloYKN27cbjoY15oJx6J_akZpj-t0TvGnTzmjg=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@virtual_kaf",
             "channelImp":{
-                "h":9.3,
-                "d":7.6,
-                "o":6.9
+                "h":9.9,
+                "d":8.0,
+                "o":6.8
             },
             "videos":[
                 {
@@ -8186,15 +7953,6 @@
                     }
                 },
                 {
-                    "videoId":"x4KiRD0Xa9A",
-                    "title":"【歌ってみた】[A]ddiction covered by 花譜",
-                    "impression":{
-                        "b":74.1,
-                        "a":11.0,
-                        "o":9.8
-                    }
-                },
-                {
                     "videoId":"HK-MXTaPfEc",
                     "title":"【歌ってみた】洗脳 covered by 花譜",
                     "impression":{
@@ -8220,9 +7978,9 @@
             "icon":"https://yt3.ggpht.com/vOaRfnV1pc6GgRRGuXjgbWlwQYVMJmqQY48wOhf3cJFCm3RqPWhq0wAAp9X0tsDOo8W7hB4q=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@kannagitenri",
             "channelImp":{
-                "a":39.6,
-                "g":12.1,
-                "h":5.0
+                "m":25.8,
+                "a":20.9,
+                "g":6.6
             },
             "videos":[
                 {
@@ -8232,6 +7990,15 @@
                         "a":39.6,
                         "g":12.1,
                         "h":5.0
+                    }
+                },
+                {
+                    "videoId":"oRALRp7DF2Q",
+                    "title":"【歌ってみた/COVER】妄想感傷代償連盟/DECO*27 （Covered by 巫てんり）【 #vtuber 】",
+                    "impression":{
+                        "m":49.2,
+                        "d":9.3,
+                        "j":8.0
                     }
                 }
             ]
@@ -8264,9 +8031,9 @@
             "icon":"https://yt3.ggpht.com/ytc/AIdro_mEgIVe_5X3BqnlscsN5a-lvmoxA5nTPYV8J5LyYpPn4w=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@kzlivetune",
             "channelImp":{
-                "d":45.2,
-                "o":36.3,
-                "m":0.3
+                "o":56.6,
+                "d":7.2,
+                "m":0.7
             },
             "videos":[
                 {
@@ -8276,15 +8043,6 @@
                         "o":56.6,
                         "d":7.2,
                         "m":0.7
-                    }
-                },
-                {
-                    "videoId":"243vPl8HdVk",
-                    "title":"livetune feat. 初音ミク「Redial」Music Video",
-                    "impression":{
-                        "d":83.1,
-                        "o":16.1,
-                        "h":0.4
                     }
                 }
             ]
@@ -8348,9 +8106,9 @@
             "icon":"https://yt3.ggpht.com/EZ3jV6tO2LWBsV5K9nAzxC-9egVWdf0To5_DkzCgllXxOwIbP6zwWVycUeAojHwynmUiGBC4Otk=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@lisasmej",
             "channelImp":{
-                "o":21.4,
-                "e":13.6,
-                "g":6.4
+                "o":21.8,
+                "e":15.1,
+                "g":7.0
             },
             "videos":[
                 {
@@ -8423,15 +8181,6 @@
                         "a":27.6,
                         "g":21.8,
                         "o":7.0
-                    }
-                },
-                {
-                    "videoId":"-A0ICz6rVvU",
-                    "title":"LiSA「REALiZE」Lyric Video（映画『スパイダーマン：アクロス・ザ・スパイダーバース』日本語吹替版主題歌）",
-                    "impression":{
-                        "b":52.0,
-                        "o":17.2,
-                        "i":14.0
                     }
                 },
                 {
@@ -9012,28 +8761,6 @@
             ]
         },
         {
-            "channelId":"UCsFCD8G80_achmqcPEidGAw",
-            "channelName":"LamazeP",
-            "icon":"https://yt3.ggpht.com/ytc/AIdro_mSqBI1U2tQ2l3Whg0zo9od-EFBwqDdRoGvbBCbBsNtsw=s88-c-k-c0x00ffffff-no-rj",
-            "cosName":"@lamazep",
-            "channelImp":{
-                "o":21.7,
-                "n":13.0,
-                "j":13.0
-            },
-            "videos":[
-                {
-                    "videoId":"E2oRrLUxWKo",
-                    "title":"愛の詩（V3）-初音ミク for lamazeP",
-                    "impression":{
-                        "o":21.7,
-                        "n":13.0,
-                        "j":13.0
-                    }
-                }
-            ]
-        },
-        {
             "channelId":"UCSFCh5NL4qXrAy9u-u2lX3g",
             "channelName":"Kuzuha Channel",
             "icon":"https://yt3.ggpht.com/ytc/AIdro_kOiA-_aFW-Qz7jxl0wCPDRAKIYL7wDIgs9-iKo7NjztcA=s88-c-k-c0x00ffffff-no-rj",
@@ -9101,29 +8828,11 @@
             "icon":"https://yt3.ggpht.com/N1CZWNWCTLXNL0_x7-PHNI4OMy7IbkH9mpdEXNU2wmhIAU9O3mYstGhWWMv8c0JKU3QKxauY0g=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@kano_",
             "channelImp":{
-                "d":18.9,
-                "h":18.3,
-                "e":13.7
+                "d":20.7,
+                "e":18.7,
+                "o":10.9
             },
             "videos":[
-                {
-                    "videoId":"6XZek8E_SiE",
-                    "title":"ヴァンパイア Covered by 鹿乃",
-                    "impression":{
-                        "j":89.5,
-                        "d":5.1,
-                        "o":1.6
-                    }
-                },
-                {
-                    "videoId":"_PVZr0iJiug",
-                    "title":"ダーリンダンス covered by 鹿乃",
-                    "impression":{
-                        "h":49.0,
-                        "l":18.4,
-                        "m":6.1
-                    }
-                },
                 {
                     "videoId":"SSy-z9N7A-k",
                     "title":"フォニイ / phony covered by 鹿乃",
@@ -9143,39 +8852,12 @@
                     }
                 },
                 {
-                    "videoId":"95IHn2aicV8",
-                    "title":"強風オールバック / 鹿乃 cover",
-                    "impression":{
-                        "h":36.3,
-                        "o":30.5,
-                        "g":29.6
-                    }
-                },
-                {
-                    "videoId":"zZ0r3RgZzXA",
-                    "title":"【4K】どりーみんチュチュ / Dreamin Chuchu cover.鹿乃",
-                    "impression":{
-                        "h":53.8,
-                        "d":19.2,
-                        "i":7.7
-                    }
-                },
-                {
                     "videoId":"V5Uo57bIK6I",
                     "title":"僕が死のうと思ったのは cover. 鹿乃",
                     "impression":{
                         "d":32.5,
                         "n":13.2,
                         "m":12.0
-                    }
-                },
-                {
-                    "videoId":"N-ZTFGlD8Rg",
-                    "title":"unravel /cover 鹿乃",
-                    "impression":{
-                        "d":37.5,
-                        "o":27.3,
-                        "m":3.9
                     }
                 },
                 {
@@ -9215,123 +8897,12 @@
                     }
                 },
                 {
-                    "videoId":"AG5a1Wx1lRI",
-                    "title":"Trust On Me -Theme Of E.T.E- covered by 鹿乃【エタクロニクル】",
-                    "impression":{
-                        "a":66.7,
-                        "o":16.7,
-                        "i":16.7
-                    }
-                },
-                {
-                    "videoId":"sjS5hzweb6Q",
-                    "title":"ラビットホール - DECO*27/ 鹿乃 cover（Rabbit Hole）",
-                    "impression":{
-                        "o":72.2,
-                        "h":11.1,
-                        "d":5.6
-                    }
-                },
-                {
-                    "videoId":"vVJjJmZcIJc",
-                    "title":"ド屑 - なきそ / 鹿乃 cover",
-                    "impression":{
-                        "a":35.9,
-                        "m":34.8,
-                        "h":6.5
-                    }
-                },
-                {
-                    "videoId":"QeDLf05ejus",
-                    "title":"鹿乃「ステレオフォニック」Music Video",
-                    "impression":{
-                        "o":21.9,
-                        "h":21.9,
-                        "d":9.4
-                    }
-                },
-                {
-                    "videoId":"dZeagYFiXAI",
-                    "title":"寝起きヤシの木 - Yukopi / 鹿乃 cover",
-                    "impression":{
-                        "h":81.0,
-                        "o":16.7,
-                        "d":2.4
-                    }
-                },
-                {
-                    "videoId":"_KMr_p_T5ow",
-                    "title":"INTERNET OVERDOSE / 鹿乃 cover",
-                    "impression":{
-                        "o":64.6,
-                        "h":31.5,
-                        "a":1.5
-                    }
-                },
-                {
-                    "videoId":"xNzGh-fo5uo",
-                    "title":"エンヴィーベイビー / ENVY BABY 弾き語り #shorts #cover #鹿乃",
-                    "impression":{
-                        "h":66.7,
-                        "m":33.3
-                    }
-                },
-                {
-                    "videoId":"jxwrwMlsRec",
-                    "title":"命に嫌われている。/ Hated by life itself　弾き語り #shorts #cover #鹿乃",
-                    "impression":{
-                        "d":100.0
-                    }
-                },
-                {
-                    "videoId":"i8rCO1CZZVg",
-                    "title":"KING 弾き語り #shorts #cover #鹿乃",
-                    "impression":{
-                        "d":80.0,
-                        "h":20.0
-                    }
-                },
-                {
-                    "videoId":"2RNkkGG3svY",
-                    "title":"アニソンシンガーが「アイドル」を歌ってみた #shorts",
-                    "impression":{
-                        "e":100.0
-                    }
-                },
-                {
                     "videoId":"5Ht_7PxB7LM",
                     "title":"アイドル - YOASOBI / 鹿乃 cover（推しの子OP）",
                     "impression":{
                         "f":80.3,
                         "d":5.1,
                         "o":2.5
-                    }
-                },
-                {
-                    "videoId":"q68dQjtiHi8",
-                    "title":"secret base 〜君がくれたもの〜acoustic ver. #shorts #cover #鹿乃",
-                    "impression":{
-                        "d":44.4,
-                        "e":30.6,
-                        "m":5.6
-                    }
-                },
-                {
-                    "videoId":"8pGbxewZbbU",
-                    "title":"Beat Eater - ポリスピカデリー / covered by 鹿乃",
-                    "impression":{
-                        "a":85.0,
-                        "d":5.0,
-                        "o":2.5
-                    }
-                },
-                {
-                    "videoId":"lPP4FSvNQlg",
-                    "title":"私は、私達は - Guiano / covered by 鹿乃（I Am, We Are）",
-                    "impression":{
-                        "a":38.7,
-                        "d":29.0,
-                        "j":4.8
                     }
                 },
                 {
@@ -9344,56 +8915,12 @@
                     }
                 },
                 {
-                    "videoId":"ZB1pBPY556A",
-                    "title":"ちゅ、多様性。covered by 鹿乃（チェンソーマンED）",
-                    "impression":{
-                        "d":37.5,
-                        "h":25.0,
-                        "o":2.5
-                    }
-                },
-                {
-                    "videoId":"cJ-eRHxhE6A",
-                    "title":"【原神MV - 宵宮】今宵Dance～花火やねん【鹿乃】",
-                    "impression":{
-                        "h":90.5,
-                        "d":9.5
-                    }
-                },
-                {
                     "videoId":"9nDnXgj7Tlg",
                     "title":"「再会 produced by Ayase」covered by 鹿乃×こはならむ",
                     "impression":{
                         "f":31.2,
                         "e":26.6,
                         "o":12.5
-                    }
-                },
-                {
-                    "videoId":"QqU_NCb2TyU",
-                    "title":"リコリス・リコイル＜Lycoris Recoil＞OPをアコギで弾いて歌ってみた #Shorts",
-                    "impression":{
-                        "j":25.0,
-                        "i":25.0,
-                        "e":25.0
-                    }
-                },
-                {
-                    "videoId":"0q--JezpWKg",
-                    "title":"#NARUTO -ナルト- 疾風伝 OPをアコギで弾いて歌ってみた #Shorts",
-                    "impression":{
-                        "m":61.1,
-                        "e":33.3,
-                        "o":5.6
-                    }
-                },
-                {
-                    "videoId":"Sx5oG-V21DY",
-                    "title":"マスターピース（Greatest Works of Art） cover. 鹿乃",
-                    "impression":{
-                        "b":53.3,
-                        "m":23.3,
-                        "o":10.0
                     }
                 },
                 {
@@ -9415,15 +8942,6 @@
                     }
                 },
                 {
-                    "videoId":"EzD1Xhb6UMk",
-                    "title":"【ボカロ曲cover】アコギで弾き語り歌配信【鹿乃】",
-                    "impression":{
-                        "i":22.2,
-                        "o":11.1,
-                        "j":11.1
-                    }
-                },
-                {
                     "videoId":"ydwWBIgNzEc",
                     "title":"無理に笑わなくて良いよ cover. 鹿乃",
                     "impression":{
@@ -9433,141 +8951,12 @@
                     }
                 },
                 {
-                    "videoId":"qFhHgvOCFOI",
-                    "title":"【Re:ゼロ ED】Stay Aliveをアコギで弾いて歌ってみた #Shorts",
-                    "impression":{
-                        "b":55.6,
-                        "e":25.9,
-                        "f":8.6
-                    }
-                },
-                {
-                    "videoId":"Nc_TuoH58Ps",
-                    "title":"【オリジナル曲】猫になりたい   を弾いて歌ってみた #鹿乃 #Shorts",
-                    "impression":{
-                        "l":60.0,
-                        "h":37.5,
-                        "e":2.5
-                    }
-                },
-                {
-                    "videoId":"YgDbJa0vmpM",
-                    "title":"【Birthday eve music】お誕生日カウントダウン歌配信！【鹿乃】",
-                    "impression":{
-                        "e":66.7,
-                        "b":33.3
-                    }
-                },
-                {
-                    "videoId":"oFKvFwzDgew",
-                    "title":"「Oz./yama」covered by 鹿乃（王様ランキングED）",
-                    "impression":{
-                        "e":43.1,
-                        "d":15.7,
-                        "j":11.8
-                    }
-                },
-                {
-                    "videoId":"Tr9Q6dd3lcc",
-                    "title":"【Good night music】深夜のアコースティックギター囁き配信【鹿乃】",
-                    "impression":{
-                        "d":33.3,
-                        "e":30.0,
-                        "o":3.3
-                    }
-                },
-                {
-                    "videoId":"GAG3qwmJe80",
-                    "title":"CHO-DARI- covered by 鹿乃",
-                    "impression":{
-                        "h":88.3,
-                        "b":11.7
-                    }
-                },
-                {
-                    "videoId":"W_Xdo61JpJs",
-                    "title":"水星記 coverd by 鹿乃",
-                    "impression":{
-                        "d":34.2,
-                        "m":26.3,
-                        "e":18.4
-                    }
-                },
-                {
-                    "videoId":"fo8xEgcVxZ0",
-                    "title":"てねてね / 悒うつぼ covered by 鹿乃",
-                    "impression":{
-                        "d":100.0
-                    }
-                },
-                {
-                    "videoId":"O3NrUlugHYU",
-                    "title":"bullet / Cö shu Nie Covered by 鹿乃",
-                    "impression":{
-                        "b":75.0,
-                        "d":12.5,
-                        "h":6.2
-                    }
-                },
-                {
-                    "videoId":"Baaxtxzc9gw",
-                    "title":"【MMD】ヴァンパイア Covered by 鹿乃",
-                    "impression":{
-                        "h":31.6,
-                        "j":22.8,
-                        "c":8.9
-                    }
-                },
-                {
                     "videoId":"fGInotMcu_M",
                     "title":"キュートなカノジョ Covered by 鹿乃",
                     "impression":{
                         "b":79.5,
                         "o":19.5,
                         "d":0.5
-                    }
-                },
-                {
-                    "videoId":"n4w2a__O4GQ",
-                    "title":"45秒で何ができる？ Covered by 鹿乃",
-                    "impression":{
-                        "d":100.0
-                    }
-                },
-                {
-                    "videoId":"cLJL6uRezSI",
-                    "title":"グッバイ宣言 Covered by 鹿乃",
-                    "impression":{
-                        "b":82.4,
-                        "h":12.9,
-                        "o":2.4
-                    }
-                },
-                {
-                    "videoId":"471XhgCPYqE",
-                    "title":"浮気されたけどまだ好きって曲。/りりあ。 covered by 鹿乃",
-                    "impression":{
-                        "f":64.4,
-                        "m":9.6,
-                        "d":7.7
-                    }
-                },
-                {
-                    "videoId":"msXAVDxLS-E",
-                    "title":"童話 covered by 鹿乃",
-                    "impression":{
-                        "e":50.0,
-                        "h":18.8,
-                        "m":12.5
-                    }
-                },
-                {
-                    "videoId":"XsxuXtqIZyc",
-                    "title":"【bambino】ハロ/ハワユ covered by 鹿乃  #Short #MMD",
-                    "impression":{
-                        "d":31.3,
-                        "k":12.5,
-                        "i":12.5
                     }
                 },
                 {
@@ -9589,15 +8978,6 @@
                     }
                 },
                 {
-                    "videoId":"yXxccEqgAO4",
-                    "title":"KING cover /鹿乃",
-                    "impression":{
-                        "a":84.7,
-                        "o":2.8,
-                        "h":2.3
-                    }
-                },
-                {
                     "videoId":"1aXRcZaOtFw",
                     "title":"会いたい《想见你想见你想见你》/ cover 鹿乃",
                     "impression":{
@@ -9613,15 +8993,6 @@
                         "e":42.4,
                         "j":39.4,
                         "d":6.5
-                    }
-                },
-                {
-                    "videoId":"qxNkMzlV-FU",
-                    "title":"猫猫的宇宙論 cover.鹿乃",
-                    "impression":{
-                        "i":48.1,
-                        "h":27.8,
-                        "d":11.1
                     }
                 },
                 {
@@ -9649,59 +9020,6 @@
                         "h":36.0,
                         "e":33.9,
                         "d":11.1
-                    }
-                },
-                {
-                    "videoId":"Lf_lfn1wygo",
-                    "title":"指切りげんまん《勾指起誓》歌ってみた【鹿乃】",
-                    "impression":{
-                        "h":34.6,
-                        "d":23.5,
-                        "e":9.9
-                    }
-                },
-                {
-                    "videoId":"7_UKuenm59E",
-                    "title":"【オリジナル】No Sweet N❤︎Life【初音ミク】",
-                    "impression":{
-                        "h":50.0,
-                        "d":50.0
-                    }
-                },
-                {
-                    "videoId":"DbK9lj3f3ls",
-                    "title":"【オリジナル】灰と境界【洛天依】",
-                    "impression":{
-                        "d":38.3,
-                        "o":20.0,
-                        "e":15.0
-                    }
-                },
-                {
-                    "videoId":"QqSDGg_MlTw",
-                    "title":"【MV】鹿乃「HOPE」【OFFICIAL】",
-                    "impression":{
-                        "h":70.6,
-                        "e":17.6,
-                        "b":11.8
-                    }
-                },
-                {
-                    "videoId":"XXOEO_i8tMk",
-                    "title":"【MV】鹿乃『「Q」&「A」』【OFFICIAL】",
-                    "impression":{
-                        "m":42.6,
-                        "j":27.9,
-                        "o":18.0
-                    }
-                },
-                {
-                    "videoId":"yvtyw-HAyHA",
-                    "title":"【MV】鹿乃「HOPE」(short ver.)【OFFICIAL】",
-                    "impression":{
-                        "h":75.0,
-                        "e":8.3,
-                        "d":8.3
                     }
                 },
                 {
@@ -9741,24 +9059,6 @@
                     }
                 },
                 {
-                    "videoId":"DdedCMxUBl8",
-                    "title":"【MV】鹿乃「Daisy Blue」【OFFICIAL】",
-                    "impression":{
-                        "c":31.6,
-                        "e":26.3,
-                        "h":21.1
-                    }
-                },
-                {
-                    "videoId":"Fppdf8foYoA",
-                    "title":"【MV】 鹿乃 「Ivy」 【OFFICIAL】",
-                    "impression":{
-                        "h":82.0,
-                        "e":4.1,
-                        "o":1.7
-                    }
-                },
-                {
                     "videoId":"_kj5xKz8CDM",
                     "title":"打上花火　歌ってみた【鹿乃×やしきん】",
                     "impression":{
@@ -9777,15 +9077,6 @@
                     }
                 },
                 {
-                    "videoId":"VZfDyna9NJc",
-                    "title":"ドリームレス・ドリームス　歌ってみた【鹿乃】",
-                    "impression":{
-                        "e":23.3,
-                        "o":16.7,
-                        "m":15.0
-                    }
-                },
-                {
                     "videoId":"A8jUgcSgcQg",
                     "title":"【MV】 鹿乃 「day by day」(short ver.) 【OFFICIAL】",
                     "impression":{
@@ -9801,51 +9092,6 @@
                         "h":44.9,
                         "e":24.6,
                         "o":8.5
-                    }
-                },
-                {
-                    "videoId":"l4Rp9GNXhU4",
-                    "title":"【MV】 鹿乃 「RERE」 【OFFICIAL】",
-                    "impression":{
-                        "b":63.6,
-                        "d":29.5,
-                        "m":4.5
-                    }
-                },
-                {
-                    "videoId":"im2tTHtR5YU",
-                    "title":"【MV】 鹿乃 「nameless」 【OFFICIAL】",
-                    "impression":{
-                        "h":47.5,
-                        "d":20.0,
-                        "m":10.0
-                    }
-                },
-                {
-                    "videoId":"6BXKh4f6Vhw",
-                    "title":"【MV】 鹿乃 「プリマステラ」 【OFFICIAL】",
-                    "impression":{
-                        "m":45.0,
-                        "f":21.7,
-                        "o":12.5
-                    }
-                },
-                {
-                    "videoId":"UstE6yTlwcU",
-                    "title":"【MV】 鹿乃 「ディアブレイブ」  【OFFICIAL】",
-                    "impression":{
-                        "h":89.4,
-                        "d":3.3,
-                        "o":2.8
-                    }
-                },
-                {
-                    "videoId":"X0QIH_tp4Hg",
-                    "title":"【MV】 鹿乃 「ディアブレイブ」 （short ver.） 【OFFICIAL】",
-                    "impression":{
-                        "o":41.7,
-                        "d":41.7,
-                        "e":16.7
                     }
                 },
                 {
@@ -10121,28 +9367,6 @@
                         "b":68.0,
                         "o":17.3,
                         "g":7.0
-                    }
-                }
-            ]
-        },
-        {
-            "channelId":"UCtGmulznR7e0KxpEdKu_nqw",
-            "channelName":"U/M/A/A Inc.",
-            "icon":"https://yt3.ggpht.com/ytc/AIdro_kNdptk01xVzcxZlptZouNE0iBVOgi5WUm2lrfCrNaJvlo=s88-c-k-c0x00ffffff-no-rj",
-            "cosName":"@umaainc",
-            "channelImp":{
-                "b":89.4,
-                "o":7.0,
-                "d":2.1
-            },
-            "videos":[
-                {
-                    "videoId":"DnLFVUi3oOU",
-                    "title":"DECO*27 - モザイクロール feat. GUMI",
-                    "impression":{
-                        "b":89.4,
-                        "o":7.0,
-                        "d":2.1
                     }
                 }
             ]
@@ -10762,9 +9986,9 @@
             "icon":"https://yt3.ggpht.com/6SEwNkZKqzm-lRnO91oU2JSLC0BB0UYoFZyFGrCJ9-BRnjVYiEjRB_abxnHkI-mCwEVdTDKfuA=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@nchan_sksk",
             "channelImp":{
-                "d":19.5,
-                "h":16.9,
-                "o":12.0
+                "m":24.6,
+                "o":23.2,
+                "d":22.8
             },
             "videos":[
                 {
@@ -10774,76 +9998,6 @@
                         "m":47.1,
                         "d":16.2,
                         "e":5.0
-                    }
-                },
-                {
-                    "videoId":"CVqBqG4qkLA",
-                    "title":"フォニイ - ツミキ【歌ってみた】",
-                    "impression":{
-                        "d":25.2,
-                        "m":13.6,
-                        "a":8.5
-                    }
-                },
-                {
-                    "videoId":"Raxc7gHRTow",
-                    "title":"アイドル / YOASOBI 【歌ってみた】",
-                    "impression":{
-                        "d":29.1,
-                        "o":9.3,
-                        "j":7.7
-                    }
-                },
-                {
-                    "videoId":"8ETlXPSzaUk",
-                    "title":"ド屑 / なきそ 【歌ってみた】",
-                    "impression":{
-                        "g":25.0,
-                        "d":19.4,
-                        "o":13.9
-                    }
-                },
-                {
-                    "videoId":"vGPoBlc9I2Y",
-                    "title":"神っぽいな- ピノキオピー【歌ってみた】",
-                    "impression":{
-                        "b":54.2,
-                        "h":16.7,
-                        "d":9.5
-                    }
-                },
-                {
-                    "videoId":"9w6h88yknhY",
-                    "title":"強風オールバック / Yukopi【歌ってみた】",
-                    "impression":{
-                        "h":90.6,
-                        "d":6.2,
-                        "c":3.1
-                    }
-                },
-                {
-                    "videoId":"bu-mEa8TpaU",
-                    "title":"glow / Keeno 【歌ってみた】",
-                    "impression":{
-                        "d":38.9,
-                        "m":33.3,
-                        "o":1.9
-                    }
-                },
-                {
-                    "videoId":"rnt4tuhe5Dw",
-                    "title":"ラビットホール - DECO*27【歌ってみた】",
-                    "impression":{
-                        "h":42.9,
-                        "o":35.7,
-                        "d":21.4
-                    }
-                },
-                {
-                    "videoId":"PLpSRXl0sF4",
-                    "title":"【12歳】アイドル/歌ってみた【心はいつでも】",
-                    "impression":{
-                        "j":100.0
                     }
                 },
                 {
@@ -11066,9 +10220,9 @@
             "icon":"https://yt3.ggpht.com/VXeA7tz-RsePrgKKs99aYb8wz4aLSLH52lysXXpL8xH2mZt3dY65ae_0boggAy_Cy0t_3EzJ=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@nachoneko_dayo",
             "channelImp":{
-                "h":28.1,
-                "d":12.0,
-                "e":10.7
+                "h":54.8,
+                "d":23.5,
+                "e":15.0
             },
             "videos":[
                 {
@@ -11087,24 +10241,6 @@
                         "d":46.8,
                         "e":30.0,
                         "h":13.5
-                    }
-                },
-                {
-                    "videoId":"W_s4lIw-lL8",
-                    "title":"恋ゴコロ (K's Remix) / Nachoneko × 赤見かるび (cover)",
-                    "impression":{
-                        "b":92.1,
-                        "o":3.0,
-                        "g":2.0
-                    }
-                },
-                {
-                    "videoId":"q_Yvgv3R7NI",
-                    "title":"nekomeshi / Nachoneko (cover)",
-                    "impression":{
-                        "b":78.6,
-                        "e":12.9,
-                        "i":5.7
                     }
                 }
             ]
@@ -11127,6 +10263,37 @@
                         "o":33.2,
                         "d":27.0,
                         "a":20.2
+                    }
+                }
+            ]
+        },
+        {
+            "channelId":"UCvp05KhK2ShzaA54CKuE0ow",
+            "channelName":"あやぽんず*ちゃんねる",
+            "icon":null,
+            "cosName":null,
+            "channelImp":{
+                "e":31.2,
+                "f":10.8,
+                "d":10.2
+            },
+            "videos":[
+                {
+                    "videoId":"wYhLE1zUNIE",
+                    "title":"ベテルギウス -piano arrange- を歌ってみた　あやぽんず＊",
+                    "impression":{
+                        "e":38.4,
+                        "d":12.9,
+                        "o":2.4
+                    }
+                },
+                {
+                    "videoId":"Lrv0XXOMFEI",
+                    "title":"【10周年記念】letter song -piano arrange- を歌ってみた　あやぽんず＊",
+                    "impression":{
+                        "e":24.1,
+                        "f":21.7,
+                        "o":10.4
                     }
                 }
             ]
@@ -11952,5 +11119,5 @@
             ]
         }
     ],
-    "data_version":"2024.06.18"
+    "data_version":"2024.06.20"
 }
