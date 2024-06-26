@@ -10313,9 +10313,9 @@
             "icon":"https://yt3.ggpht.com/ytc/AIdro_nMWGqyr97pm_Gwii1PfkXIYJd4QYOiMP779zRdYQh49II=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@ayase_yoasobi",
             "channelImp":{
-                "o":46.9,
-                "d":34.9,
-                "m":18.2
+                "o":46.2,
+                "d":35.0,
+                "m":18.8
             },
             "videos":[
                 {
@@ -10424,6 +10424,15 @@
                         "d":38.0,
                         "o":36.6,
                         "m":25.4
+                    }
+                },
+                {
+                    "videoId":"OIBODIPC_8Y",
+                    "title":"YOASOBI「勇者」 Official Music Video／TVアニメ『葬送のフリーレン』オープニングテーマ",
+                    "impression":{
+                        "o":34.4,
+                        "e":32.8,
+                        "d":32.8
                     }
                 }
             ]
