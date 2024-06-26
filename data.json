@@ -5916,9 +5916,9 @@
             "icon":"https://yt3.ggpht.com/I3ckNVLPQq04aQklOnRctTEnBjf7pkppVLV7WYe4Nb4g3sge1h-2IlXAvLnRGgrMkMfL4NadPQ=s88-c-k-c0x00ffffff-no-rj",
             "cosName":"@ado1024",
             "channelImp":{
-                "o":54.7,
-                "d":25.6,
-                "a":19.8
+                "o":54.4,
+                "d":26.2,
+                "a":19.4
             },
             "videos":[
                 {
@@ -6099,6 +6099,15 @@
                         "o":49.6,
                         "g":28.1,
                         "d":22.3
+                    }
+                },
+                {
+                    "videoId":"eZuDklxsaRg",
+                    "title":"【Ado】unravel 歌いました",
+                    "impression":{
+                        "o":45.4,
+                        "d":35.6,
+                        "g":18.9
                     }
                 }
             ]
