@@ -293,24 +293,6 @@
                         "o":24.4,
                         "h":10.1
                     }
-                },
-                {
-                    "videoId":"KFCaSz_yYCM",
-                    "title":"【GUMI】QUEEN【Kanaria】",
-                    "impression":{
-                        "e":98.2,
-                        "g":0.9,
-                        "d":0.8
-                    }
-                },
-                {
-                    "videoId":"sSHkXxADtaE",
-                    "title":"【GUMI】EYE【Kanaria】",
-                    "impression":{
-                        "i":90.4,
-                        "o":6.4,
-                        "e":3.3
-                    }
                 }
             ]
         },
@@ -1721,15 +1703,6 @@
                         "m":37.2,
                         "f":19.5
                     }
-                },
-                {
-                    "videoId":"1Wa3VV0ZfCo",
-                    "title":"妄想感傷代償連盟 / DECO*27(covered by 犬山たまき)",
-                    "impression":{
-                        "m":97.3,
-                        "h":1.6,
-                        "j":1.1
-                    }
                 }
             ]
         },
@@ -1804,15 +1777,6 @@
                         "b":60.2,
                         "o":26.1,
                         "d":13.7
-                    }
-                },
-                {
-                    "videoId":"MFEaIgMkR_0",
-                    "title":"初音ミクの激唱(2018Remake) - cosMo＠暴走P",
-                    "impression":{
-                        "m":95.3,
-                        "o":3.7,
-                        "i":1.0
                     }
                 }
             ]
@@ -2237,15 +2201,6 @@
                     }
                 },
                 {
-                    "videoId":"-m06qeRZbZM",
-                    "title":"推し★ごと／HoneyWorks feat.可不",
-                    "impression":{
-                        "d":94.5,
-                        "h":4.8,
-                        "o":0.7
-                    }
-                },
-                {
                     "videoId":"OBlGJjos4n4",
                     "title":"可愛いねって言われちゃった／HoneyWorks feat. 可不",
                     "impression":{
@@ -2585,17 +2540,7 @@
                 "j":11.5,
                 "d":2.8
             },
-            "videos":[
-                {
-                    "videoId":"I9VfWCyCagQ",
-                    "title":"Guiano - 私は、私達は (feat.可不)",
-                    "impression":{
-                        "e":85.7,
-                        "j":11.5,
-                        "d":2.8
-                    }
-                }
-            ]
+            "videos":[]
         },
         {
             "channelId":"UCAYfguaShVaNDU561_jJoOQ",
@@ -2607,17 +2552,7 @@
                 "m":20.1,
                 "o":15.7
             },
-            "videos":[
-                {
-                    "videoId":"BEULybZnLO8",
-                    "title":"【みうめ・メイリア・217】極楽浄土[Gokuraku Jodo]  OFFiCiAL",
-                    "impression":{
-                        "j":64.3,
-                        "m":20.1,
-                        "o":15.7
-                    }
-                }
-            ]
+            "videos":[]
         },
         {
             "channelId":"UCb-crO2ATrJsm253151B4Vg",
@@ -3322,30 +3257,12 @@
                     }
                 },
                 {
-                    "videoId":"Yd8P4K7pQ6A",
-                    "title":"でもね feat.可不 - 水野あつ",
-                    "impression":{
-                        "d":80.2,
-                        "e":16.3,
-                        "m":3.5
-                    }
-                },
-                {
                     "videoId":"_h4Rv2pthT8",
                     "title":"信じることが怖い feat. 可不",
                     "impression":{
                         "e":50.4,
                         "h":29.7,
                         "n":19.8
-                    }
-                },
-                {
-                    "videoId":"Apm3o6w81eY",
-                    "title":"金木犀 feat.可不 - 水野あつ",
-                    "impression":{
-                        "d":89.4,
-                        "e":8.9,
-                        "o":1.8
                     }
                 }
             ]
@@ -4493,15 +4410,6 @@
                     }
                 },
                 {
-                    "videoId":"xxFkW3PCT5M",
-                    "title":"【初音ミク(40㍍)】 からくりピエロ Karakuri Pierrot【オリジナル】",
-                    "impression":{
-                        "a":96.4,
-                        "o":2.5,
-                        "d":1.1
-                    }
-                },
-                {
                     "videoId":"EgOWe9ByNaE",
                     "title":"【初音ミク(1640㍍)】 タイムマシン 【オリジナル】",
                     "impression":{
@@ -4775,17 +4683,7 @@
                 "d":3.2,
                 "o":2.8
             },
-            "videos":[
-                {
-                    "videoId":"rG-0BYynoRI",
-                    "title":"フリィダム ロリィタ　歌ってみた　Ver.センラ",
-                    "impression":{
-                        "m":94.0,
-                        "d":3.2,
-                        "o":2.8
-                    }
-                }
-            ]
+            "videos":[]
         },
         {
             "channelId":"UCGw7lrT-rVZCWHfdG9Frcgg",
@@ -5394,17 +5292,7 @@
                 "m":14.1,
                 "o":10.7
             },
-            "videos":[
-                {
-                    "videoId":"ZOTJgXBkJpc",
-                    "title":"Loading Memories / せきこみごはん feat. 初音ミク",
-                    "impression":{
-                        "d":75.2,
-                        "m":14.1,
-                        "o":10.7
-                    }
-                }
-            ]
+            "videos":[]
         },
         {
             "channelId":"UCJK3mpoMHWeNZNW0cY88qFQ",
@@ -6608,17 +6496,7 @@
                 "o":2.4,
                 "a":2.0
             },
-            "videos":[
-                {
-                    "videoId":"EsJGbHJyXYc",
-                    "title":"10-FEET – 第ゼロ感（映画『THE FIRST SLAM DUNK』エンディング主題歌）",
-                    "impression":{
-                        "e":95.6,
-                        "o":2.4,
-                        "a":2.0
-                    }
-                }
-            ]
+            "videos":[]
         },
         {
             "channelId":"UCMYtONm441rBogWK_xPH9HA",
@@ -8160,17 +8038,7 @@
                 "o":0.4,
                 "e":0.0
             },
-            "videos":[
-                {
-                    "videoId":"N_W38cOlEnc",
-                    "title":"デビル / てにをは feat.可不",
-                    "impression":{
-                        "h":99.6,
-                        "o":0.4,
-                        "e":0.0
-                    }
-                }
-            ]
+            "videos":[]
         },
         {
             "channelId":"UCQcboHvGXFE5vuy2AK2MUOg",
@@ -8265,15 +8133,6 @@
                         "o":50.9,
                         "g":25.5,
                         "i":23.6
-                    }
-                },
-                {
-                    "videoId":"4DxL6IKmXx4",
-                    "title":"LiSA 『炎』 -MUSiC CLiP-",
-                    "impression":{
-                        "e":95.4,
-                        "o":3.1,
-                        "g":1.5
                     }
                 },
                 {
@@ -8687,17 +8546,7 @@
                 "o":12.6,
                 "i":0.6
             },
-            "videos":[
-                {
-                    "videoId":"uXZkGWbyvcM",
-                    "title":"Loveit?  / biz×ZERA feat LOLUET",
-                    "impression":{
-                        "l":86.8,
-                        "o":12.6,
-                        "i":0.6
-                    }
-                }
-            ]
+            "videos":[]
         },
         {
             "channelId":"UCrFREdqSkLslvG2BpYpZHmg",
@@ -9764,17 +9613,7 @@
                 "o":1.8,
                 "m":1.0
             },
-            "videos":[
-                {
-                    "videoId":"JNh4Bq3xCak",
-                    "title":"デリヘル呼んだら君が来た(Covered by レヴィ・エリファ)",
-                    "impression":{
-                        "a":97.2,
-                        "o":1.8,
-                        "m":1.0
-                    }
-                }
-            ]
+            "videos":[]
         },
         {
             "channelId":"UCu1_iG4WyMf8if1yIHwtwyw",
@@ -10544,15 +10383,6 @@
                         "o":39.0,
                         "d":32.8,
                         "j":28.2
-                    }
-                },
-                {
-                    "videoId":"o4AxMk3SGUY",
-                    "title":"HERO / 初音ミク",
-                    "impression":{
-                        "h":56.1,
-                        "j":28.0,
-                        "o":16.0
                     }
                 },
                 {
