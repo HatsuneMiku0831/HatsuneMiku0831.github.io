@@ -833,26 +833,7 @@
                 "o":6.6,
                 "h":2.0
             },
-            "videos":[
-                {
-                    "videoId":"BnkhBwzBqlQ",
-                    "title":"Aiobahn feat. KOTOKO - INTERNET OVERDOSE (Official Music Video) [Theme for NEEDY GIRL OVERDOSE]",
-                    "impression":{
-                        "c":97.6,
-                        "h":1.5,
-                        "o":0.9
-                    }
-                },
-                {
-                    "videoId":"51GIxXFKbzk",
-                    "title":"Aiobahn feat. KOTOKO - INTERNET YAMERO (Official Music Video) [Theme for NEEDY GIRL OVERDOSE]",
-                    "impression":{
-                        "c":86.6,
-                        "o":11.0,
-                        "h":2.3
-                    }
-                }
-            ]
+            "videos":[]
         },
         {
             "channelId":"UC4_izxrLusd2HidczET6zqA",
@@ -6422,15 +6403,6 @@
                     }
                 },
                 {
-                    "videoId":"LYWP8HtgeLQ",
-                    "title":"ピノキオピー - 転生林檎 feat. 初音ミク / Reincarnation Apple",
-                    "impression":{
-                        "o":99.7,
-                        "e":0.2,
-                        "d":0.1
-                    }
-                },
-                {
                     "videoId":"T2kS1gAbxhc",
                     "title":"ピノキオピー - 魔法少女とチョコレゐト feat. 初音ミク / Magical Girl and Chocolate",
                     "impression":{
@@ -7389,30 +7361,12 @@
                     }
                 },
                 {
-                    "videoId":"HbSMzi9niVg",
-                    "title":"【公式】 メンタルチェンソー／かいりきベア feat.初音ミク",
-                    "impression":{
-                        "o":98.9,
-                        "i":0.7,
-                        "h":0.4
-                    }
-                },
-                {
                     "videoId":"_l4FsnJt0k4",
                     "title":"【公式】 イナイイナイ依存症／かいりきベア・MARETU feat.初音ミク",
                     "impression":{
                         "b":73.1,
                         "o":13.4,
                         "d":13.4
-                    }
-                },
-                {
-                    "videoId":"mwnu2aP0Q8g",
-                    "title":"【公式】 マオ／かいりきベア・まふまふ feat.初音ミク",
-                    "impression":{
-                        "o":99.5,
-                        "c":0.3,
-                        "h":0.2
                     }
                 }
             ]
@@ -8893,15 +8847,6 @@
                     }
                 },
                 {
-                    "videoId":"5Ht_7PxB7LM",
-                    "title":"アイドル - YOASOBI / 鹿乃 cover（推しの子OP）",
-                    "impression":{
-                        "f":91.4,
-                        "d":5.8,
-                        "o":2.8
-                    }
-                },
-                {
                     "videoId":"fbvvS8e1KgI",
                     "title":"カタオモイ - Aimer / covered by 鹿乃（オリジナルMV）",
                     "impression":{
@@ -9449,15 +9394,6 @@
                         "o":21.1,
                         "m":13.5
                     }
-                },
-                {
-                    "videoId":"1GIDtjBGXe4",
-                    "title":"マーシャル・マキシマイザー ：歌ってみた：麻婆豆腐",
-                    "impression":{
-                        "c":79.9,
-                        "g":11.7,
-                        "a":8.4
-                    }
                 }
             ]
         },
@@ -9708,15 +9644,6 @@
                         "b":82.6,
                         "c":10.5,
                         "o":7.0
-                    }
-                },
-                {
-                    "videoId":"-kQRS_Bzp8c",
-                    "title":"Overdose / 293Project【歌ってみた】",
-                    "impression":{
-                        "j":94.8,
-                        "m":3.4,
-                        "o":1.8
                     }
                 }
             ]
